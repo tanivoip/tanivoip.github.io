@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowe strefy numeracyjne w iFON.pl
+joomla_id: 311
+joomla_url: 56c1a1627a3aa81bd8b137bf1b1e0a20
+date: 2009-02-18 16:41:06.000000000 +01:00
+---
+iFON.pl wdrożył 12 nowych stref numeracyjnych. Jest to pierwszy etap poszerzania oferty numeracji PSTN tego operatora.<p>{mosgoogle}</p><p>iFON.pl w pierwszym etapie rozszerzenia oferty numeracji PSTN, udostępnił następujące strefy numeracyjne:<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 015 (Tarnobrzeg)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 025 (Siedlce)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 029 (Ostrołęka)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 046 (Skierniewice)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 055 (Elbląg)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 059 (Słupsk)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 062 (Kalisz)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 067 (Piła)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 074 (Wałbrzych)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 082 (Chełm)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 083 (Biała Podlaska)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 094 (Koszalin)<br /><br />W ofercie operatora telefonii internetowej iFON.pl znajduje się już łącznie 30 stref numeracyjnych. Dodatkowo w ciągu najbliższych tygodni udostępnionych będzie kolejnych 12 stref numeracyjnych.<br /><br />W iFON.pl numery PSTN kosztują 1 pln miesięcznie. Przy rezerwacji na dłuższy okres niż 1 miesiąc dostępne są dodatkowe rabaty obniżające koszt posiadania własnego numeru.<br /><br />R&oacute;wnolegle trwają r&oacute;wnież pracę nad możliwością przenoszenia numer&oacute;w telefonicznych od innych operator&oacute;w.<br /><br />Szczeg&oacute;ły oferty iFON.pl dostępne są pod numerem infolinii 022 433 42 00 oraz na stronie internetowej <a href="http://www.ifon.pl" target="_blank">www.ifon.pl</a>.</p>

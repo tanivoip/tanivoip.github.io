@@ -1,0 +1,8 @@
+---
+layout: post
+title: Sprzęt Pirelli Broadband Solutions w ofercie HaloNet
+joomla_id: 194
+joomla_url: 7b371cd897587c278edb201554bb33f0
+date: 2007-10-08 14:09:30.000000000 +02:00
+---
+HaloNet wprowadził do swojej oferty sprzętu firmy Pirelli Broadband Solutions. Jako pierwszy, zaoferowany został model DRG-A266G. Jest to modem ADSL z routerem wyposażony dodatkowo w pełną funkcjonalność VoIP i technologię WiFi.<p>{mosgoogle}</p><p><a href="images/obrazy/pirellihalonet.jpg" target="_blank"><img src="images/obrazy/pirellihalonet_s.jpg" border="0" alt=" " width="200" height="290" align="left" /></a>Podstawowe parametry tego urządzenia:</p><ul><li>ADSL 2/2+</li><li>Anex A,B</li><li>Port Ethernet</li><li>USB 2.0 Host</li><li>VoIP SIp / MGCP</li><li>MIMO Wireless 802.11 b/g</li></ul><p>Sprzęt jest oferowany w pakiecie z 150 minutami na rozmowy oraz numerem stacjonarnym z jednej z 37 stref numeracyjnych gratis w cenie 449,99 PLN brutto. Szczeg&oacute;łowa oferta HaloSklep znajduje się pod adresem: <a href="http://halonet.pl/index.php?gid=104" target="_blank">http://halonet.pl/index.php?gid=104</a> </p>

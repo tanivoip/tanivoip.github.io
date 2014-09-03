@@ -1,0 +1,8 @@
+---
+layout: post
+title: Stacjonarny, komórka i VoIP w jednym
+joomla_id: 167
+joomla_url: 80d021ca48663b7f954b690d1986f125
+date: 2007-08-26 18:23:11.000000000 +02:00
+---
+Firma Plantronics wprowadza nowe urządzenie, kt&oacute;re ma wspom&oacute;c telefonowanie w domu lub małym biurze. Calisto Pro Home Phone jest telefonem, kt&oacute;ry umożliwia rozmowy poprzez sieć kom&oacute;rkową, stacjonarną i VoIP.<p>{mosgoogle}</p> <p>Produkt wyposażony jest w zestaw słuchawkowy z modułem Bluetooth, kt&oacute;ry pozwala na swobodne przemieszczanie się podczas rozmowy. Słuchawka wykorzystuje szyfrowaną technologię, dedykowaną do rozm&oacute;w głosowych DECT 6.0, co ma skutkować dobrą jakością dźwięku i jednocześnie zapobiegać interferencjom z sieci WiFi lub innych zakł&oacute;ceń. Zasięg urządzenia od bazy to około 90 metr&oacute;w.</p><p>Dla tych, kt&oacute;rzy nie lubią rozmawiać za pomocą zestawu słuchawkowego, urządzenie dysponuje także standardową słuchawką telefoniczną. Do telefonu można przetransferować do 200 kontakt&oacute;w z Outlooka i każdemu przypisać do 3 numer&oacute;w. Wyb&oacute;r rodzaju telefonii odbywa się przy pomocy tylko jednego przycisku. Aby korzystać z rozm&oacute;w VOIP, Calisto Pro należy podłączyć do komputera poprzez złącze USB. Urządzenie będzie w sprzedaży we wrześniu tego roku w cenie 280 USD.</p>

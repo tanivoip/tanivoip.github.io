@@ -1,0 +1,8 @@
+---
+layout: post
+title: Komentarz NewFon do testów Aviaa.com
+joomla_id: 215
+joomla_url: a36b9d8cc1bcb3f181519cc94f57068f
+date: 2007-11-28 18:22:26.000000000 +01:00
+---
+Otrzymaliśmy kolejny komentarz do test&oacute;w przeprowadzonych przez serwis Aviaa.com - tym razem z firmy NewFon.<p>{mosgoogle}</p><p>Treść otrzymanego komentarza:</p><p>&quot;<em>Wynik&oacute;w testu dostępności serwer&oacute;w operator&oacute;w VoIP nie można przełożyć w spos&oacute;b jednoznaczny na jakość świadczonych usług. Jest wiele innych element&oacute;w wpływających na satysfakcję klienta poza dostępem do usługi, kosztem czy jakością głosu. Z racji tego, że usługi świadczone są z założenia w publicznym Internecie, czyli medium na kt&oacute;rego jakość operator nie ma wpływu, należy uwzględnić r&oacute;wnież fakt występowania przerw powodowanych czynnikami zewnętrznymi. Są to czynniki losowe, kt&oacute;rych nikt nie jest w stanie przewidzieć i wyeliminować przed wystąpieniem. Bardziej miarodajnym wynikiem byłoby podanie dodatkowo czasu reakcji na problemy z dostępem do usługi głosowej oraz liczby przerw, tak aby klient miał realny pogląd na poziom i jakość obsługi. Takie dane pokazują czy operator jest gotowy do szybkiej reakcji na usterkę, kt&oacute;rej nikt nie jest w stanie uniknąć. Niemniej jednak cieszy nas fakt prowadzenia test&oacute;w i liczymy na ich cykliczne przeprowadzanie. Nic tak nie motywuje do działania jak krytyczne oko niezależnych ekspert&oacute;w.</em>&quot; - napisał Maciej Solicki - menadżer usługi NewFon. </p>

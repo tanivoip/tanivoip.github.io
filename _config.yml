@@ -1,0 +1,12 @@
+# Site settings
+title: tanivoip.pl
+email: redakcja@tanivoip.pl
+description: > # this means to ignore newlines until "baseurl:"
+  Portal tanivoip.pl 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tanivoip.pl" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  tanivoip
+
+# Build settings
+markdown: kramdown

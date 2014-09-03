@@ -1,0 +1,8 @@
+---
+layout: post
+title: 300 Mb/s w komórce
+joomla_id: 118
+joomla_url: 64e4fddfbd2d9d1a30e62041cc525a81
+date: 2007-07-16 16:25:55.000000000 +02:00
+---
+Japoński operator NTT DoCoMo rozpoczął testy telefonii kom&oacute;rkowej Super 3G (Long-Term Evolution). Trwająca miesiąc seria pr&oacute;b ma, według zapewnień operatora, zakończyć się uzyskaniem stabilnej transmisji na poziomie 300 Mb/s w kierunku do użytkownika (downlink).<p>{mosgoogle}</p><p>Eksperymenty z Super 3G zostaną przeprowadzone wewnątrz budynk&oacute;w, aby uwiarygodnić rzeczywiste warunki transmisji. Pierwsze testy obejmą tradycyjne przesłanie sygnału (1 antena nadawcza, 1 odbiorcza), a następnie zostanie zastosowana metoda MIMO (Multiple Input Multiple Output) - do 4 anten nadawczo-odbiorczych. Specjaliści sprawdzą także szybkość transmisji sygnału w przypadku jego przełączania między BTSami (stacje przekaźnikowe). <br /> <br />Technologia Super 3G pozwala używać do transmisji r&oacute;żnych szerokości pasma oraz korzysta z zaawansowanych system&oacute;w modulowania sygnału, co dodatkowo zwiększa jej zalety w obszarze telefonii kom&oacute;rkowej. Specjaliści z NTT DoCoMo twierdzą, że umożliwia ona uzyskanie szybkości transmisji danych dochodzących do 80 Mb/s (uplink) i 300 Mb/ (downlink). <br /> <br />Japoński operator już od kilku lat pracuje nad rozwojem Super 3G. Jej komercyjne wdrożenie ma nastąpić w Japonii ok. 2009 r. Jak twierdzą eksperci NTT DoCoMo Super 3G jest tylko wstępem do technologii czwartej generacji (4G). Pod koniec ub. r., dzięki eksperymentalnemu systemowi 4G, operator uzyskał prędkość przesłania danych na poziomie 5 Gb/s do odbiornika poruszającego się 10 kilometr&oacute;w na godzinę. </p>

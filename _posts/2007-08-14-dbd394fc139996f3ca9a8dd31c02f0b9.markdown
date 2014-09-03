@@ -1,0 +1,8 @@
+---
+layout: post
+title: ZoIPer zamiast Idefisk
+joomla_id: 157
+joomla_url: dbd394fc139996f3ca9a8dd31c02f0b9
+date: 2007-08-14 16:11:17.000000000 +02:00
+---
+Tw&oacute;rcy znanego softfonu <strong>IDEFISK</strong> zmienili jego nazwę na <strong>ZoIPer</strong>. Poza nazwą w tej chwili nic się nie zmieniło.<p>{mosgoogle}</p><div style="text-align: center"><img src="images/obrazy/zoiper.png" alt=" " /></div><p><strong>ZoIPer</strong> to jeden z niewielu program&oacute;w do prowadzenia rozm&oacute;w z komputera, kt&oacute;ry pracuje w standardach <strong>SIP</strong> oraz <strong>IAX</strong> obsługiwanym przez serwery Asteriska. Tw&oacute;rcy tego programu (<a href="http://www.asteriskguru.com" target="_blank">www.asteriskguru.com</a>) udostępniają go na wszystkie podstawowe platformy (Windows, Linux, MacOS X) w trzech r&oacute;żnych wariantach:<br />- Free<br />- Biz<br />- OEM</p><p>R&oacute;żnice pomiędzy tymi wydaniami można zobaczyć <a href="http://www.zoiper.com/free.php" target="_blank">tutaj</a>.</p><p>Więcej o tym programie można poczytać <a href="http://www.zoiper.com/" target="_blank">tutaj</a>. Można r&oacute;wież tam znaleźć jego instrukcje obsługi jak i pobrać sam program.</p><p>&nbsp;</p><div style="text-align: center"><img src="images/obrazy/asteriskguru.gif" alt=" " width="217" height="51" /></div>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: FRITZ!Box Fon WLAN 7170 i FRITZ!Box Fon 5124
+joomla_id: 125
+joomla_url: 8cdfefc8200b7463d45f48c0c67194ff
+date: 2007-07-19 16:46:37.000000000 +02:00
+---
+<p>Urządzenia te umożliwiają podłączenie telefonu internetowego, tradycyjnego - analogowego oraz sprzętu ISDN. Oba urządzenia posiadają port USB umożliwiający wsp&oacute;łdzielenie drukarek, przenośnych pamięci i dysk&oacute;w w sieci.</p>{mosgoogle} <p><img src="images/obrazy/fbf5124.jpg" alt=" " width="207" height="300" align="left" /></p> <p>AVM, producent urządzeń FRITZ!Box wprowadza na nasz rynek FRITZ!Box Fon WLAN 7170 i FRITZ!Box Fon 5124. Urządzenia spełniają się jako centralki telefoniczne, routery i modemy DSL, - wszystkie te funkcje wbudowano w jedną obudowę.<br /><br /> FRITZ!Box Fon WLAN 7170 i FRITZ!Box Fon 5124 wyposażono w jeden port ISDN i cztery porty LAN. Modem DSL obsługuje standard ADSL2+ o przepustowości do 16 Mbit/s. W obu modelach producent umożliwił wsp&oacute;łdzielenie drukarek i dysk&oacute;w w sieci.</p><p><br /><!--   onet('adsGet1','main2-box') //--><!--   onet('adsGet2') //--> FRITZ!Box Fon WLAN 7170 pozwala korzystać z dostępu do Internetu bez kabla, router udostępnia WLAN w trybie 802.11g i b., FRITZ!Box wsp&oacute;łpracując z FRITZ!WLAN USB Stick, obsługuje r&oacute;wnież standard 802.11g++, dzięki czemu przepustowość wzrasta nawet o jedną trzecią. Funkcjonalność WLAN można wyłączać i włączać ręcznie lub automatycznie np. w ustalonych godzinach.<br /><br /> Orientacyjne koszty urządzeń: FRITZ!Box Fon WLAN 7170 i FRITZ!Box Fon 5124 odpowiednio 160 i 140 euro netto. Firma AVM udziela na wszystkie urządzenia pięcioletniej gwarancji.</p> 

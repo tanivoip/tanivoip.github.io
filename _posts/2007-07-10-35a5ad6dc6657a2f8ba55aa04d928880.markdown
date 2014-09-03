@@ -1,0 +1,8 @@
+---
+layout: post
+title: cFosSpeed - lepszy transfer, mniejsze pingi
+joomla_id: 108
+joomla_url: 35a5ad6dc6657a2f8ba55aa04d928880
+date: 2007-07-10 13:14:28.000000000 +02:00
+---
+Serwis IDG.pl opisuje oraz udostępnia program cFosSpeed, kt&oacute;ry mam poprawiać działanie połączenia internetowego, co może się przekładać na lepszą jakość połączeń VoIP.<p>{mosgoogle}</p><p>cFosSpeed to znany program do kształtowania ruchu internetowego w taki spos&oacute;b, aby wykorzystywał on maksymalne możliwości łącza: przyspieszał transfery oraz zmniejszał pingi. Program został stworzony z myślą o graczach, osobach korzystających z telefonii internetowej oraz programach wymagających częstego odświeżania danych przez Internet. Jak przedstawiają się możliwości programu, prezentujemy na filmie.</p><p>Program ten można pobrać z serwisu IDG.pl klikając <a href="http://www.idg.pl/ftp/pc_14934/pc.html" target="_blank">tutaj</a>.</p><p>Serwis zamieścił r&oacute;wnież na swoich stronach wideoporadnik o tym produkcie.&nbsp;</p>

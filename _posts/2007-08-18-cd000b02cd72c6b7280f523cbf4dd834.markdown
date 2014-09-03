@@ -1,0 +1,8 @@
+---
+layout: post
+title: Polski Internet ma 16 lat
+joomla_id: 161
+joomla_url: cd000b02cd72c6b7280f523cbf4dd834
+date: 2007-08-18 07:39:26.000000000 +02:00
+---
+Internet funkcjonuje w Polsce już od 16 lat. Początki były trudne, a zasięg mocno ograniczony. Korzystały z niego przeważnie plac&oacute;wki naukowe. Nikt nie przypuszczał, że popularnością dor&oacute;wna nawet telewizji.<p>{mosgoogle}</p><p>Oficjalnie za dzień narodzin polskiego Internetu uznaje się 17 sierpnia 1991 roku. W&oacute;wczas nastąpiła pierwsza wymiana poczty elektronicznej między Polską a Światem, konkretnie &ndash; Kopenhagą. Korespondencję wysłano z baraku przed budynkiem Wydziału Fizyki Uniwersytetu Warszawskiego przy ulicy Hożej.<br /><br />Dopiero w czerwcu 1996 roku Telekomunikacja Polska wprowadziła numer dostępu do Internetu (dial-up). Wprowadzenie tego numeru miało przełomowe znaczenie &ndash; był to jedyny spos&oacute;b rozwoju masowego dostępu do Internetu.<br /><br />Dzisiaj Internet w Polsce jest jednym z gł&oacute;wnych źr&oacute;deł informacyjnych oraz staje się potężnym medium, gł&oacute;wnie wśr&oacute;d os&oacute;b młodych, kt&oacute;rzy dużo często spędzają w Internecie. Z danych firmy Gemius wynika, że w grudniu 2006 roku w Polsce z Internetu korzystało ponad 12,5 mln użytkownik&oacute;w.<br /><br />Polscy Internauci to osoby dobrze wykształcone (37,19 proc. deklaruje wykształcenie wyższe, niepełne wyższe lub licencjat) i stosunkowo młode (44,71 proc. internaut&oacute;w ma mniej niż 25 lat). W 2006 roku średni miesięczny czas spędzony w Internecie użytkownika wynosił prawie 27,5 godziny. </p>

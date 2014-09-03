@@ -1,0 +1,8 @@
+---
+layout: post
+title: Darmowe rozmowy w dzień urodzin Gadu-Gadu
+joomla_id: 155
+joomla_url: 60fdddaccb78ea5409601ba65768f48a
+date: 2007-08-14 09:04:39.000000000 +02:00
+---
+15-go sierpnia Gadu-Gadu obchodzi 7 rocznicę powstania. Z tej okazji użytkownicy komunikatora będą mieli możliwość wykonywania bezpłatnych rozm&oacute;w telefonicznych na krajowe numery stacjonarne.<p>{mosgoogle}</p><p>Wszyscy internauci, kt&oacute;rzy posiadają własny numer GG lub go założą, będą mogli 15 sierpnia bez żadnych opłat dzwonić na stacjonarne numery krajowe - przez cały dzień. Więcej informacji oraz szczeg&oacute;ły promocji zostaną opublikowane 14 sierpnia na stronie <a href="http://www.gadunaglos.pl" target="_blank">www.gadunaglos.pl</a>.</p>

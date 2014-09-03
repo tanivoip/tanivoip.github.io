@@ -1,0 +1,8 @@
+---
+layout: post
+title: Odpowiedź Sluchawka.pl na test Aviaa.com
+joomla_id: 211
+joomla_url: 5827ccaf695af8bc8d7ad70a79561fe9
+date: 2007-11-19 18:46:19.000000000 +01:00
+---
+Po odpowiedzi IPFon i Freeconet nasz serwis otrzymał kolejną odpowiedź na artykuł opisujący testy jakościowe operator&oacute;w VoIP przeprowadzone przez serwis Aviaa.com<p>{mosgoogle}</p><p>W dniu dzisiejszym skontaktował się z nami przedstawiciel serwisu Sluchawka.pl:</p><p>&quot;<em>Faktem jest że sluchawka.pl miała jedna poważną awarię w październiku  czego efektem jest nasza niska lokata. Aby jednak uzyskać ocenę  najbardziej wiarygodną proponujemy taki test przeprowadzić dla dłuższego  okresu. Nie dziwi nas też pierwsze miejsce EasyCalla, z kt&oacute;rym Aviaa ma  &nbsp;powiązania biznesowe.</em>&quot; - napisał Paweł Kuczyński - Dyrektor Sprzedaży  Sluchawka.pl</p>

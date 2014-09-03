@@ -1,0 +1,8 @@
+---
+layout: post
+title: Odpowiedź IPCall.pl na testy Aviaa.com
+joomla_id: 212
+joomla_url: b5d84e93be60d76c23e3fbd5043b1af4
+date: 2007-11-21 17:36:03.000000000 +01:00
+---
+W dniu dzisiejszym nasz serwis otrzymał odpowiedź i komentarz z firmy IPCall.pl w temacie wynik&oacute;w test&oacute;w przeprowadzonych w październiku przez serwis Aviaa.com.<p>{mosgoogle}</p><p>&quot;<em>Cały czas prowadzone są prace modernizacyjne związane z rozbudową systemu. Dla użytkownik&oacute;w IPCALL nie były i nie są one tak naprawdę odczuwalne, ale automatyczny test wyłapał niestabilność łączy internetowych do naszych serwer&oacute;w i ostatecznie zostaliśmy ocenieni jako operator o niższej jakości usług, aniżeli operatorzy, kt&oacute;rzy żadnych prac modernizacyjnych w tym czasie nie przeprowadzali. System naszej firmy jest cały czas rozbudowywany niestety czasami jesteśmy zmuszeni aby w godzinach nocnych z przyczyn technicznych wyłączyć dostęp do części usług. Niestety bez takich planowych prac nie jesteśmy wstanie cały czas podnosić jakości oferowanych przez naszą firmę usług</em>&quot; - napisał Paweł Gołąbek - Dyrektor Techniczny.</p><p>Zar&oacute;wno z tej jak i poprzednich wypowiedzi wyłania się powoli jasny obraz, iż serwisy oferujące 100% czasu dostępności po prostu nie modernizują swoich system&oacute;w. Pozostaje oczywiście pytanie czy dlatego, że ich serwisy nie wymaają żadnej modernizacji, czyteż dlatego, iż nie rozwijają swojej oferty. W to drugie jednak jest nam dość ciężko uwierzyć atrząc na dzisiejszy rynek telekomunikacyjny i walkę o klienta między operatorami. Ale to tylko nasze zdanie.</p>

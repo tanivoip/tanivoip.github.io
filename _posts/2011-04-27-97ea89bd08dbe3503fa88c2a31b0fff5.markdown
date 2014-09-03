@@ -1,0 +1,8 @@
+---
+layout: post
+title: Inotel wprowadza nowy standard IPv6
+joomla_id: 425
+joomla_url: 97ea89bd08dbe3503fa88c2a31b0fff5
+date: 2011-04-27 09:27:44.000000000 +02:00
+---
+Wielkopolski Inotel uruchomił drugi publiczny w Polsce PoP SixXS. To odpowiedź na zagrożenie wynikające z kończącej się puli adres&oacute;w IPv4, a jednocześnie początek nowej ery internetowych adres&oacute;w.<p>{mosgoogle}</p><p>Na polskim rynku usług IT funkcjonują trzy PoPy SixXS &ndash; z czego tylko dwa mają charakter publiczny. Na całym świecie jest ich zaledwie 46, choć w większości stanowią kanały publiczne. Nowe tunele dają użytkownikom możliwość korzystania z adresacji IPv6 już dziś, nawet jeśli ich obecni ISP oferują wyłącznie standard IPv4. W tym celu wystarczy założyć bezpłatne konto na <a href="http://www.sixxs.net" target="_blank">www.sixxs.net</a>.<br /><br /><em>Korzystanie z tunelu to możliwość dostępu do zasob&oacute;w sieciowych za pośrednictwem protokołu IPv6 i początek nowej ery w polskiej sferze IT. - Obecnie pracujemy nad wdrożeniem nowego standardu w kolejnych obszarach działalności - część naszych serwer&oacute;w DNS już działa wykorzystując zar&oacute;wno IPv4, jak i IPv6. Od dawna staramy się też utrzymywać natywną łączność IPv6 ze wszystkimi operatorami, z kt&oacute;rymi mamy styk</em> &ndash; m&oacute;wi Paweł R&oacute;żański, gł&oacute;wny specjalista ds. utrzymania sieci w Inotel. <br /><br />Inotel to pierwszy operator w Wielkopolsce, kt&oacute;ry uruchomił publiczny PoP SixXS. Powstały tunel IPv6 to usługa niekomercyjna i realizowana na zasadzie best effort. </p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tanie połączenia telefoniczne bez umowy
+joomla_id: 52
+joomla_url: 22b4ef7171583c8c4419c5bdaf275446
+date: 2007-06-11 23:01:17.000000000 +02:00
+---
+<strong style="color: #cc0033">HopIn.pl</strong> uruchomił usługę, kt&oacute;ra oferuje tanie rozmowy międzynarodowe do sieci stacjonarnych i kom&oacute;rkowych oraz tanie połączenia międzymiastowe na terenie Polski bez konieczności podpisywania um&oacute;w.<p>{mosgoogle}</p><p><img src="http://www.hopin.pl/images/images/hopinpl_logo.jpg" alt="HopIn.pl" width="206" height="116" align="left" />Firma uruchomiła numer dostępowy <a href="http://708.hopin.pl" target="_blank">708 108 206</a> dla abonent&oacute;w Telekomunikacji Polskiej oraz innych operator&oacute; stacjonarnych jak i sieciOrnge w celu wykonywania tanich połączeń międzynarodowych do sieci stacjonarnych oraz sieci kom&oacute;rkowych bez podpisywania umowy. Stawki za połączenia międzynarodowe wynoszą <strong>35 groszy brutto</strong>.</p>  <p>Aby korzystać z usługi Tanie połączenia telefoniczne wystarczy ze zwykłego telefonu wybrać numer 0 708 108 206, a następnie połączyć się z numerem docelowym.</p>  <p><strong style="color: #cc0033">HopIn.pl</strong> posiada gł&oacute;wnie usługę telefonii internetowej <strong>VoIP</strong> oraz usługę <strong>Wirtualnego Faxu</strong>. Użytkownicy otrzymują własne numery telefoniczne z 12 stref numeracyjnych. Umożliwia to odbieranie i wykonywanie połączeń z dowolnego miejsca: biura, domu, hotelu, zachowując ten sam numer telefonu, niezależnie od miejsca podłączenia do Internetu. </p>

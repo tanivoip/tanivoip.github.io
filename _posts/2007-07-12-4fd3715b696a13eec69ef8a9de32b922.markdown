@@ -1,0 +1,8 @@
+---
+layout: post
+title: VoIP popularniejszy w Europie niż w USA
+joomla_id: 113
+joomla_url: 4fd3715b696a13eec69ef8a9de32b922
+date: 2007-07-12 16:07:20.000000000 +02:00
+---
+Z raportu firmy In-Stat wynika, że ponad 14 mln Europejczyk&oacute;w zaczęło korzystać z usług VoIP w zeszłym roku, co podwyższyło całkowitą liczbę użytkownik&oacute;w telefonii internetowej do 19 mln. In-Stat prognozuje, że pod koniec tego roku liczba użytkownik&oacute;w w Europie urośnie do 34 mln.<p>{mosgoogle}</p><p>W USA zainteresowanie telefonią internetową jest zdecydowanie mniejsze. W zeszłym roku nowymi użytkownikami VoIP zostało zaledwie 4 mln Amerykan&oacute;w, co oznacza, że z usługi tej korzysta obecnie 10,6 mln os&oacute;b. Pod koniec 2007 r. liczba użytkownik&oacute;w ma zwiększyć się o połowę i wynieść około 15,9 mln. <br /><br /> Wartość globalnego rynku usług VoIP w 2006 r. wyniosła 15,4 mld dolar&oacute;w, a w 2011 r. ma wzrosnąć do 44 mld dol. USA kontroluje mniej niż 20% tego rynku. <br /><br /> Oferta bezpłatnych bądź znacznie tańszych niż tradycyjne usług telefonicznych nie kusi Amerykan&oacute;w tak bardzo jak Europejczyk&oacute;w dlatego, że koszt połączeń w Stanach jest dużo mniejszy niż na Starym Kontynencie. Poza tym Amerykanie rzadziej wykonują połączenia zagraniczne. </p>

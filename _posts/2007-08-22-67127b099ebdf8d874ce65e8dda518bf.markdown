@@ -1,0 +1,8 @@
+---
+layout: post
+title: FRITZ!Box Fon WLAN 7170 i FRITZ!Box Fon 5124 już w sprzedaży
+joomla_id: 164
+joomla_url: 67127b099ebdf8d874ce65e8dda518bf
+date: 2007-08-22 16:33:42.000000000 +02:00
+---
+<p>Oferta firmy HSF Poland zwiększyła się o dwa rewelacyjne i długo oczekiwane produkty firmy AVM: FBF WLAN 7170 i FBF 5124</p><p>{mosgoogle}</p><p><strong>FRITZ!Box Fon WLAN 7170</strong> wyposażony w stację dostępową sieci Wi-Fi, modem ADSL, 4 portowy switch FastEthernet, bramę VoIP oraz port So (ISDN) i host USB. Nowy FRITZ!Box Fon WLAN 7170 łączy najlepsze cechy modeli 7050 i 7140. Jest to produkt kt&oacute;ry otrzymał wiele prestiżowych nagr&oacute;d, w tym r&oacute;wnież puchar tegorocznych targ&oacute;w w Łodzi Intertelecom. W zeszłym roku sprzedaż tego urządzenia tylko na rynku niemieckojęzycznym przekroczyła ponad 3 mln. Pojawienie się  FRITZ!Box Fon WLAN 7170 wiąże się z wycofaniem ze sprzedaży modelu FRITZ!Box Fon WLAN 7050. Więcej o nim można przeczytac <a href="http://fritzbox.pl/fritz_box_fon_wlan_7170.html" target="_blank">tutaj</a>.<br /><br /><strong>FRITZ!Box Fon 5124</strong> to rozbudowane urządzenie wyposażone w modem ADSL, 4 portowy switch FastEthernet, port host USB oraz bramę VoIP. Pojawienie się  FRITZ!Box Fon 5124 wiąże się z wycofaniem ze sprzedaży modelu FRITZ!Box Fon. Więcej o nim można przeczytać <a href="http://fritzbox.pl/fritz_box_fon_5124.html" target="_blank">tutaj</a>.</p><p>Na stronie <a href="http://www.fritzbox.pl" target="_blank">www.fritzbox.pl</a>  pojawiły się już  opisy do tych produkt&oacute;w.</p>

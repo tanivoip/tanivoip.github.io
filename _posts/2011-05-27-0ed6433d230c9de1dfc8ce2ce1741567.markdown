@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowy system telewizyjny w Wielkopolsce
+joomla_id: 430
+joomla_url: 0ed6433d230c9de1dfc8ce2ce1741567
+date: 2011-05-27 21:27:55.000000000 +02:00
+---
+Inotel, operator telekomunikacyjny z Wielkopolski, poinformował o wprowadzeniu nowego systemu telewizyjnego. Uruchomione funkcjonalności przeznaczone są dla wszystkich abonent&oacute;w.<p>{mosgoogle}</p><p>Po uruchomieniu drugiego w Polsce, a pierwszego w Wielkopolsce publicznego PoP SixXS, Inotel wprowadza nowy system telewizyjny. Zastosowane funkcjonalności umożliwiają dostęp do szerokiej biblioteki film&oacute;w VOD, czytelniejszego i przejrzystego w obsłudze interfejsu EPG (elektronicznego programu telewizyjnego), możliwości sortowania program&oacute;w (w tym włączania tzw. blokady rodzicielskiej) oraz wygaszania ekranu podczas odsłuchu audycji radiowych. Dodatkowo Inotel, jako jedyny operator w Wielkopolsce, oferuje dostęp do Internetu przez telewizję.<br /><br />Wprowadzone funkcje to realizacja misji Inotel jako firmy przyjaznej klientom i kolejny krok w kierunku sukcesywnego polepszania jakości świadczonych usług. <br /><br />Funkcjonalności przeznaczone są dla wszystkich abonent&oacute;w Inotela. Więcej informacji na <a href="http://www.inotel.pl" target="_blank">www.inotel.pl</a>. </p>

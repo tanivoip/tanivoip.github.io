@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kolejna aplikacja do Skype'a
+joomla_id: 91
+joomla_url: b49822850bab9be9b668e0cdef150052
+date: 2007-06-29 19:15:14.000000000 +02:00
+---
+Firma Shape Services zaprezentowała aplikację, kt&oacute;ra umożliwia korzystanie z komunikatora Skype za pomocą urządzeń mobilnych, kt&oacute;re nie są wyposażone w obsługę technologii Wi-Fi. <p>{mosgoogle}</p><p>IM+ Skype dostępny jest na razie w wersji beta dla telefon&oacute;w pracujących pod kontrolą systemu Windows Mobile, Symbian, Blackberry oraz kom&oacute;rek obsługujących aplikacje JAVA. Komunikator umożliwia prowadzenie rozm&oacute;w głosowych oraz tekstowych. Program można bezpłatnie przetestować pobierając <a href="http://www.shapeservices.com/en/products/details.php?product=skype&amp;platform=none" target="_blank">ze strony producenta</a>.</p>

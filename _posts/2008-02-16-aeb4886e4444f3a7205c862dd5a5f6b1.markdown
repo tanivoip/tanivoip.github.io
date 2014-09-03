@@ -1,0 +1,8 @@
+---
+layout: post
+title: VoIP przez telefon komórkowy
+joomla_id: 233
+joomla_url: aeb4886e4444f3a7205c862dd5a5f6b1
+date: 2008-02-16 13:00:54.000000000 +01:00
+---
+O możliwościach wykorzystywania VoIP w telefonach kom&oacute;rkowych wiadomo od dawna. Jeden z operator&oacute;w opublikował instrukcje jak można takie połączenia wykonywać i jak należy telefon skonfigurować.<p>{mosgoogle}</p><p>Istnieje kilka sposob&oacute;w taniego dzwonienia przez VoIP z telefon&oacute;w kom&oacute;rkowych. Pierwszym jest wykorzystanie numeru wdzwanianego oferowanego przez dostawc&oacute;w tej usługi. Drugi jest zarezerwowany dla posiadaczy niekt&oacute;rych telefon&oacute;w Nokia seria E - ale tutaj program jest dość trudny do skonfigurowania, nie każdy operator umożliwia jego wykorzystanie i należy łączyć się z internetem przez WiFi.</p><p>Trzeci spos&oacute;b jest dla wszystkich posiadaczy telefon&oacute;w opartych o system Symbian lub Windows Mobile - należy skorzystać z bezpłatnego programu FRING.</p><p>Szczeg&oacute;łową instrukcję jak należy ten program skonfigurować można znaleźć na stronach operatora HopIn.pl pod tym adresem:<br /><a href="http://www.hopin.pl/content/view/271/95/">http://www.hopin.pl/content/view/271/95/</a><br />Jej uruchomienie i skonfigurowanie jest bardzo przejżyście wyjaśnione i każdy użytkownik bez większego problemu może to uruchomić.</p><p>Serwis ten oferuje r&oacute;wnież pozostałe wspomniane dwie metody korzystania z VoIP na telefonach kom&oacute;rkowych. Posiadacze telefon&oacute;w Nokia seria E mogą zajrzeć <a href="http://www.hopin.pl/content/view/238/95/">tutaj</a>  a osoby chcące skorzystać z numeru wdzwanianego powinny się zapoznać z <a href="http://www.hopin.pl/content/view/33/95/">tą instrukcją</a> .</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Neostrada przyspiesza!
+joomla_id: 147
+joomla_url: 97bdd0d9d5f0f00e09131680666d0249
+date: 2007-08-03 11:16:27.000000000 +02:00
+---
+Abonenci Telekomunikacji Polskiej korzystający z szerokopasmowego dostępu do Internetu już za kilka tygodni będą mogli cieszyć się szybszą prędkością łączy.<p>{mosgoogle}</p><p>Jak informuje The Wall Street Jurnal powołując się na France Telecom, już w drugiej połowie 2007 roku Telekomunikacja Polska zwiększy prędkości w ofercie dostępu do internetu dla klient&oacute;w indywidual&shy;nych w Polsce.<br /><br />Telekomunikacja Polska wprowadzi do swojej oferty opcję Neostrady, kt&oacute;ra pozwoli abonentowi na korzystanie z Internetu z prędkością 15 Mbit/s. Ma to być najszybsza prędkość oferowana w Polsce.</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rozpoczęcie testów integracji Office Communication Server z HaloNet
+joomla_id: 353
+joomla_url: 0e47a659b4ee0144a1028eaf35708b4a
+date: 2009-08-10 20:12:49.000000000 +02:00
+---
+30 lipca 2009 r. HaloNet wraz z warszawską firmą Fild.NET Sp. z o.o. rozpoczął testy integracyjne Microsoft Office Communication Server (OCS) z platformą telekomunikacyjną HaloNet.<p>{mosgoogle}</p><p>Celem jaki postawiły sobie obie firmy jest doprowadzenie do pełnej, stabilnej integracji tak rozbudowanego i zaawansowanego rozwiązania jakim jest OCS z platformą HaloNet. Obie firmy w zakresie telefonii internetowej wsp&oacute;łpracują ze sobą już od wielu lat, co znacznie ułatwia pozytywne przeprowadzenie integracji z OCS. Po pozytywnym zakończeniu integracji w portfolio obu firm pojawi się nowy ciekawy produkt dla przedsiębiorstw chcących posiadać platformę kt&oacute;rej celem jest ulepszenie komunikacji w czasie rzeczywistym (komunikacja synchroniczna): czyli wiadomościami błyskawicznymi, technologią VoIP oraz wideokonferencjami.<br /><br />Skuteczna komunikacja jest dzisiaj podstawowym narzędziem prowadzenia biznesu. Wdrożenia oparte na OCS pozwalają zastępować starsze i mniej efektywne rozwiązania (np. centrale telefoniczne) i realizować koncepcję Unified Communications - środowiska integrującego wszystkie kanały komunikacyjne. Dzięki zastosowaniu tego typu rozwiązań organizacje mogą obniżyć koszty prowadzenia działalności (podr&oacute;że służbowe, szkolenia, czy wynajem powierzchni biurowych) i jednocześnie dzięki możliwości szybkiego i prostego porozumiewania się, podnieść efektywność pracy i skuteczniej realizować zadania i projekty. </p>

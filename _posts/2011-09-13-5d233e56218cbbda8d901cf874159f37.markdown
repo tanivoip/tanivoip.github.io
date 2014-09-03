@@ -1,0 +1,8 @@
+---
+layout: post
+title: Inotel uruchamia przyłącze do Amsterdam Internet Exchange
+joomla_id: 444
+joomla_url: 5d233e56218cbbda8d901cf874159f37
+date: 2011-09-13 10:35:10.000000000 +02:00
+---
+Jako jedni z pierwszych w Polsce podpisaliśmy umowę o przyłączenie do Amsterdam Internet Exchange (AMS-IX) - poinformował Inotel, operator telekomunikacyjny z Wielkopolski.<p>{mosgoogle}</p><p>Amsterdam Internet Exchange to jeden z trzech największych punkt&oacute;w wymiany ruchu w Europie. Co dla klient&oacute;w Inotel oznacza podłączenie do AMS-IX? Przede wszystkim polepszenie jakości świadczonych usług internetowych. Będzie to możliwe dzięki wymianie ruchu z największymi na świecie operatorami i dostawcami treści - AKAMAI, Microsoft, Google, Facebook itp. Dzięki umowie nastąpi także obniżenie koszt&oacute;w łącz zagranicznych.<br /><br />Inotel to jeden z pierwszych w Polsce operator&oacute;w posiadających przyłącze do Amsterdam Internet Exchange. Kolejne plany zakładane przez operatora dotyczą nawiązania wsp&oacute;łpracy z pozostałymi dwoma największymi europejskimi punktami wymiany ruchu - angielskim LINX w Londynie oraz niemieckim DEC-IX we Frankfurcie. </p>

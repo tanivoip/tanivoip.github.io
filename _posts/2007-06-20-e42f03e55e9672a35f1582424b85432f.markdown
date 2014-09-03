@@ -1,0 +1,8 @@
+---
+layout: post
+title: IPFON umożliwia wysyłkę faxów
+joomla_id: 79
+joomla_url: e42f03e55e9672a35f1582424b85432f
+date: 2007-06-20 12:12:13.000000000 +02:00
+---
+Operator telefonii internetowej IPFON poszerzył swoją ofertę o nową usługę &ndash; email2fax.<p>{mosgoogle}</p><p>Usługa ta umożliwia wysyłanie mailem dokument&oacute;w na dowolny numer faksu. <br /> Użytkownicy IPFON mogą wysyłać dokumenty w formacie PDF lub TIFF na tradycyjne urządzenia faksowe, poprzez wiadomości email. Można to zrobić na dwa sposoby: wysłanie maila na adres fax@email2fax.pl podając w temacie numer, na kt&oacute;ry chcemy wysłać faks i załączając plik PDF czy TIFF. <br /> <br /> Drugi spos&oacute;b to wysłanie maila na adres nr_faksu@email2fax.pl , załączając właściwy plik, a temat wiadomości może być dowolny. Szczeg&oacute;łowe wyjaśnienia są na stronie internetowej oraz forum IPFON.<br /> <br /> Email2fax to uzupełnienie oferty operatora, kt&oacute;ry posiada już usługę fax2mail, umożliwiającą odbieranie faks&oacute;w na skrzynce mailowej. Jest to ważne przede wszystkim dla firm, kt&oacute;re dzięki temu nie muszą inwestować w urządzenia faksowe, dodatkowe linie telefoniczne, a przy tym wysyłają i odbierają faksy z poziomu skrzynki mailowej.</p><p>Podobne oferty posiadają konkurencyjne sieci VoIP już od dłuższego czasu i aktualni użytkownicy IPFON na pewno ucieszą się z możliwości podobnej funkcji u ich operatora.</p><p>Inne rozwiązania dostępne na rynku umożliwiają wysyłanie faks&oacute;w bezpośrednio z aplikacji (np. Word czy Exel) bez konieczności konwertowania dokumentu do formatu PDF czy TIFF a następnie wysyłania tego pliku mailem.<br /></p>

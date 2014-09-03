@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hotspoty za darmo w bibliotekach
+joomla_id: 56
+joomla_url: 54f70a1e3bb4115b6461e57859f8e7fa
+date: 2007-06-12 09:12:09.000000000 +02:00
+---
+Biblioteki publiczne w całej Polsce mogą otrzymać za darmo hotspoty dla swoich gości.<p>{mosgoogle}</p>Irlandzka firma Free-hotspot.com proponuje bibliotekom w całej Polsce darmową instalację hotspot&oacute;w. Warunkiem jest posiadanie przez bibliotekę szerokopasmowego łącza do internetu. Free-hotspot.com sam dostarczy sprzęt i oprogramowanie oraz zainstaluje hotspoty.<br /><br /> Firma zarabia na reklamach, kt&oacute;re oglądają użytkownicy w zamian za darmowe połączenie z internetem. Zainteresowane biblioteki powinny do końca czerwca kontaktować się z firmą Creatio Business Development (www.creatio.pl), kt&oacute;ra jest polskim partnerem Free-hotspot.com.<br /><br /> Według <a href="http://free-hotspot.com/" target="_blank">Free-hotspot.com</a> w Polsce znajduje się obecnie 91 hotspot&oacute;w zarządzanych przez tego operatora.

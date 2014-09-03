@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowe strefy w iFON.pl
+joomla_id: 104
+joomla_url: f44162081162c81f508c91898629bb9b
+date: 2007-07-06 12:23:51.000000000 +02:00
+---
+Operator iFON.pl wprowadził do swojej oferty cztery nowe strefy numeracyjne<p>{mosgoogle}</p><p>Cztery nowe strefy numeracyjne, to:</p><p>  034 - Częstochowa<br /> 052 - Bydgoszcz<br /> 076 - Legnica<br /> 089 - Olsztyn<br /> <br /> Nowe strefy numeracyjne aktywne są dla kont VoIP i Wirtuanego Faksu </p>

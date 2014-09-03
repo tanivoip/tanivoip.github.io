@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tele2 pobije ofertę internetową Netii?
+joomla_id: 142
+joomla_url: b2e9d68f7224c6afe8a479fb4c9607d0
+date: 2007-07-28 12:57:25.000000000 +02:00
+---
+W przyszłym tygodniu, a najprawdopodobniej już w poniedziałek 30. lipca, Tele2 przedstawi nową ofertę szerokopasmowego dostępu do Internetu dla klient&oacute;w Telekomunikacji Polskiej dzięki <em>bitstream access.</em><p>{mosgoogle}</p><p>Z informacji wynika, że Tele2 zaproponuje 15 miesięcy darmowego Internetu, a potem cena nie będzie wyższa niż koszt proponowany przez Netię, najtańszą jak do tej pory ofertę na rynku. To oznaczałoby, że użytkownik nowej oferty w Tele2 zapłacił by miesięcznie średnio 28 zł. <br /><br /> Netia w tym roku planuje jeszcze dwie promocje, powiedziała rzecznik Netii Jolanta Ciesielska. Jacek Kalinowski, rzecznik Grupy TP zapowiedział, że i jego firma niedługo wprowadzi nowe promocje na <em>neostradę tp</em>. Z kolei Marta Pietranik z Dialogu m&oacute;wi, że jej firma nie planuje drastycznych obniżek cen, a raczej zaoferowanie dodatkowych usług wczesną jesienią.</p>

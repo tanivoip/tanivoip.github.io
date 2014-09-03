@@ -1,0 +1,8 @@
+---
+layout: post
+title: Konkurs Adobe Flash Lite wystartował
+joomla_id: 322
+joomla_url: 6bbde0d380dc5c9a53aa4f2b69ae3591
+date: 2009-03-18 18:33:25.000000000 +01:00
+---
+Firma Adobe zaprasza do wzięcia udziału w konkursie The Flash Lite Developer Challange.<p>{mosgoogle}</p><p>&nbsp;Konkurs skierowany jest do os&oacute;b zawodowo pracujących z oprogramowaniem Flash Lite, programist&oacute;w zainteresowanych rozwojem aplikacji Flash dla urządzeń przenośnych oraz wszystkich tych, kt&oacute;rzy zajmują się tworzeniem aplikacji dla urządzeń mobilnych i chcieliby wykorzystywać do tego Flash Lite. <br />Konkurs Adobe Flash Lite jest otwarty zar&oacute;wno dla firm, profesjonalist&oacute;w, ale także amator&oacute;w. Składanie prac odbywa się tylko drogą internetową. Służy temu specjalna platforma konkursowa. Aplikacje stworzone przy pomocy oprogramowania Flash Lite można składać w pięciu r&oacute;żnych kategoriach: Gry, Sport, Inforozrywka, Serwis społecznościowy, Serwis lifestyle&rsquo;owy.&nbsp; Uczestnikom&nbsp; konkursu firma Adobe oferuje dostęp do swoich narzędzi, kt&oacute;ry ma ułatwić przygotowanie projektu.<br />Zwycięzca w swojej kategorii otrzyma nagrodę finansową wysokości 15 000 $. Dodatkowo spośr&oacute;d laureat&oacute;w poszczeg&oacute;lnych kategorii zostanie wybrany jeden zwycięzca. Zdobywca Nagrody Gł&oacute;wnej otrzyma w sumie r&oacute;wnowartość 30 000 $ (15 000 $ + dodatkowe 15 000 $ za Nagrodę Gł&oacute;wną). &nbsp;<br />Ostatecznym terminem składania prac jest 31 maja 2009 roku. Szczeg&oacute;ły konkursu są dostępne pod adresem: <a href="http://www.flashlitedeveloperchallenge.com" target="_blank">http://www.flashlitedeveloperchallenge.com</a> </p>

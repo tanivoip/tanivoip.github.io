@@ -1,0 +1,8 @@
+---
+layout: post
+title: Telefony VoWLAN/komórka
+joomla_id: 120
+joomla_url: 0cfcb26c7e1928ba90c084ed68b70498
+date: 2007-07-17 17:19:06.000000000 +02:00
+---
+Avaya zamierza opracować wsp&oacute;lnie z Nokią przenośny telefon obsługujący dwie technologie: klasyczną telefonię kom&oacute;rkową i telefonię VoIP/Wi-Fi (VoWLAN).<p>{mosgoogle}</p><p>Firmy zamierzą zintegrować oprogramowanie one-X Mobile Dual Mode Edition (Avaya) z telefonami Nokia Eseries i centralkami IP/PBX Avaya Communications Manager. <br /> <br />Na początku br. Nokia zaprezentowała już swoje telefony kom&oacute;rkowe pracujące w trybie dual-mode, wsp&oacute;łpracujące z platformami VoIP opracowanymi przez firmy Cisco i Alcatel. <br /> <br />Nortel dostrzega r&oacute;wnież swoją szansę na tym rynku i zamierza wprowadzić w najbliższym czasie do swoich przełącznik&oacute;w Ethernet opcje wspierające technologię VoWLAN oraz telefony typu dual-mode. <br /> <br />Infonetics podaje, że zapotrzebowanie na telefony przenośne pracujące w trybie dual-mode będzie w ciągu najbliższych lat rosnąć, podczas gdy zainteresowanie telefonami wspierającymi tylko technologię Wi-Fi będzie maleć.</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Mobilny asystent z VoIP
+joomla_id: 144
+joomla_url: aae7b3923bc07b530cad8496b4788935
+date: 2007-08-01 13:44:25.000000000 +02:00
+---
+Firma PLANET Technology wprowadziła na rynek polski przedstawiony na tegorocznych targach CEBIT telefon Wi-Fi w standardzie 802.11b/g &ndash; <strong>Planet VIP-191</strong>. Telefon charakteryzuje nowoczesny design, łatwość instalacji i obsługi.  <strong>Planet VIP-191</strong> to mobilne, podręczne urządzenie, kt&oacute;re umożliwia korzystanie z komunikacji głosowej bez konieczności podłączania kabla.<p>{mosgoogle}</p><p><a href="images/obrazy/planet_vip191.jpg" target="_blank"><img src="images/obrazy/planet_vip191.jpg" border="0" alt="Planet VIP-191" width="130" height="200" align="left" /></a> VIP-191 wykorzystuje zalety połączeń bezprzewodowych, posiada graficzny interfejs użytkownika na wyświetlaczu LCD, jest kompatybilny ze standardem 802.11b/g i działa w oparciu o mobilny system operacyjny Windows CE. Urządzenie jest połączeniem inteligentnego telefonu z mobilnym, bezprzewodowym klientem poczty e-mail, komunikatorem, przeglądarką sieciową i odtwarzaczem multimedialnym. <br /><br />VIP-191 umożliwia korzystanie z przeglądarki Internet Explorer oraz poczty e-mail po bezprzewodowym podłączeniu się do sieci poprzez punkt dostępowy w dowolnym miejscu na świecie, a także pozwala na używanie komunikator&oacute;w internetowych do komunikacji tekstowej oraz głosowej. VIP-191 jest idealny dla użytkownik&oacute;w w dużych przedsiębiorstwach oraz firmach sektora SOHO, oferuje bezpłatne usługi komunikacyjne oraz dostęp do Internetu poprzez istniejące sieci WLAN, niezbędne w czasie codziennej pracy. Cena - 1319 zł. </p>

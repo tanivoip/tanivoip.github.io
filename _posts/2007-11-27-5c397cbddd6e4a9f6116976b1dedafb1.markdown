@@ -1,0 +1,8 @@
+---
+layout: post
+title: Zmiana cennika IPFON
+joomla_id: 214
+joomla_url: 5c397cbddd6e4a9f6116976b1dedafb1
+date: 2007-11-27 21:17:01.000000000 +01:00
+---
+Od 1 grudnia br.  operator telefonii internetowej IPFON obniża stawki za połączenia z telefonami kom&oacute;rkowymi.<p>{mosgoogle}</p><p>Obniżka cen rozm&oacute;w z kom&oacute;rkami dotyczy połączeń z prezentacją numeru do  trzech sieci kom&oacute;rkowych: Era, Plus oraz Orange. Dzięki temu, od 1 grudnia  użytkownicy IPFON, dzwoniąc na kom&oacute;rkę z prezentacją numeru zapłacą o 9 proc.  mniej, czyli 62 grosze brutto za minutę rozmowy (stara cena &ndash; 68 groszy  brutto).</p><p>To już  druga w tym roku obniżka cen połączeń na telefony kom&oacute;rkowe w IPFON. Od sierpnia  użytkownicy operatora dzwonią taniej na kom&oacute;rki bez prezentacji numeru płacąc 49  groszy brutto za minutę rozmowy.</p>

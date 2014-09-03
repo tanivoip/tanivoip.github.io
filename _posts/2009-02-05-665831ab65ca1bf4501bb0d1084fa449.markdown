@@ -1,0 +1,8 @@
+---
+layout: post
+title: HaloNet - 4 nowe strefy numeracyjne
+joomla_id: 307
+joomla_url: 665831ab65ca1bf4501bb0d1084fa449
+date: 2009-02-05 19:16:11.000000000 +01:00
+---
+HaloNet - operator telefonii internetowej należący do Internet Group - uruchomił obsługę kolejnych 4 stref numeracyjnych. To już drugi etap rozszerzania zasięgu HaloNet w tym roku &ndash; w styczniu uruchomionych zostało 6 stref i obecnie zasięg operatora obejmuje aż 48 stref numeracyjnych (47 lokalnych i jedną og&oacute;lnokrajową).<p>{mosgoogle}</p><p>HaloNet w lutym 2009 uruchomił obsługę w następujących strefach: 0-23 (Ciechan&oacute;w), 0-59 (Słupsk), 0-83 (Biała Podlaska) oraz 0-87 (Suwałki). Klienci z nowych stref mogą już korzystać z pełnej oferty operatora, w tym z nowej oferty abonamentowej.<br /><br />Szczeg&oacute;ły oferty HaloNet dostępne są pod numerem infolinii 0801-811-888 oraz na stronie internetowej <a href="http://www.halonet.pl" target="_blank">www.halonet.pl</a>  </p>

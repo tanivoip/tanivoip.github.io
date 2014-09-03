@@ -1,0 +1,13 @@
+---
+layout: post
+title: ! 'Telefony IP snom kompatybilne z Microsoft Lync '
+joomla_id: 496
+joomla_url: ca92132bc5fee56a7c7a083442588a52
+date: 2013-07-08 14:59:02.000000000 +02:00
+---
+Na rynku dostępne są telefony IP marki snom w pełni wsp&oacute;łpracujące z platformą Microsoft Lync. Lync to połączenie błyskawicznych wiadomości, sygnalizacji statusu obecności, wideokonferencji, wirtualnych spotkań oraz komunikacji telefonicznej PSTN lub SIP w jednej platformie.{mosgoogle}
+Lync to rewolucyjna, ujednolicona platforma komunikacyjna umożliwiająca wykonywanie połączeń z różnymi urządzeniami wyposażonymi w system Windows. Seria biznesowych telefonów IP snom Unified Communications Edition to urządzenia w  100% zakwalifikowane i kompatybilne z Microsoft Lync . Produkty snom to łatwe w obsłudze i wdrożeniu telefony IP, spełniające wszelkie wymagania zarówno użytkowników biznesowych jak i indywidualnych. Modele, które są kompatybilne z systemem Lync to: snom 300, snom 370, snom 710, snom 720, snom 760 oraz snom 821.
+
+Oprócz zaawansowanych telefonów IP, firma snom stworzyła także zoptymalizowany model snom UC600 do pracy z wielofunkcyjnym komunikatorem dla systemu Lync. 
+
+Telefony są dostępne u autoryzowanego dystrybutora snom w Polsce &#8211; w firmie VoIPoint. VoIPoint oprócz dystrybucji telefonów snom gwarantuje profesjonalne wsparcie serwisowe oraz pomoc przy wdrożeniu Lync. .  Więcej informacji na temat telefonów snom i działalności VoIPoint można znaleźć na stronie internetowej www.voipoint.pl

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Operator VoIP wycofał się z rynku
+joomla_id: 123
+joomla_url: 2cc1f66f8cdc30f89846d3263281611c
+date: 2007-07-18 22:59:56.000000000 +02:00
+---
+SunRocket - drugi największy operator VoIP w USA - przestał 16 lipca  prowadzić swoją działalność.<p>{mosgoogle}</p><p>Zrobił to bez poinformowania o tym ponad 200 tysięcy  swoich klient&oacute;w. Osoby dzwoniące pod numer informacji telefonicznej SunRocket  otrzymywali jedynie kr&oacute;tką, nagraną wiadomość, w kt&oacute;rej byli  informowani, że firma nie prowadzi już obsługi swoich klient&oacute;w.</p><p>Według  zaufanych, wiarygodnych źr&oacute;deł, SunRocket zamierza przekazać swoich  klient&oacute;w do jednej lub kilku innych firm, oferujących tego typu usługi.</p><p>Mamy szczerą nadzieję, że taka sytuacja nie przydaży się w Polsce. A nawet jeśli kt&oacute;ryś operator lub reseller postanowi wycofać się z rynku zrobi to w spos&oacute;b profesjonalny, bez straty czy przerwy w pracy swoich klient&oacute;w.&nbsp;</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Internet, WLAN i VoIP w jednym
+joomla_id: 153
+joomla_url: 47cd8b3699f18c9ebcf8fdd876f24dbe
+date: 2007-08-13 13:05:39.000000000 +02:00
+---
+ZyXEL wprowadził na rynek wielofunkcyjne urządzenie sieciowe o nazwie P-2302HWUDL-P1. Jest to rozbudowana wersja modelu P-2302HWL-P1, zawierająca dodatkowo stację bazową dla telefon&oacute;w DECT.<p>{mosgoogle}</p><p><img src="images/obrazy/zyxel_p1.jpg" alt=" " align="left" />Rozwiązanie jest przeznaczone dla użytkownik&oacute;w zainteresowanych korzystaniem z Internetu, budową prostej sieci WLAN oraz telefonowaniem przy użyciu technologii VoIP.<br /><br />P-2302HWUDL-P1 zawiera interfejs WAN (port Ethernet 10/100, do kt&oacute;rego można podłączyć modem DSL), czteroportowy przełącznik LAN, punkt dostępowy WLAN (802.11b/g) i dwa porty USB, do kt&oacute;rych można dołączyć sieciową pamięć masową albo drukarkę.<br /><br />ZyXEL wyposażył P-2302HWUDL-P1 w bramkę VoIP ze stacją bazową dla telefon&oacute;w DECT. Urządzenie obsługuje do 10 kont SIP, a dwa porty FXS i jeden FXO pozwalają uzyskać funkcjonalność odpowiadającą centrali telefonicznej z ośmioma liniami wewnętrznymi i trzema zewnętrznymi (jednocześnie można realizować 2 połączenia VoIP, lub 1 VoIP i 1 z użyciem tradycyjnej linii PSTN). Do bramki można też podłączyć dwa analogowe telefony. Nad bezpieczeństwem rozwiązania czuwa zintegrowana zapora SPI. Rozwiązanie kosztuje ok. 155 euro. </p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tlenofon w telefonie
+joomla_id: 112
+joomla_url: 67005c3b2b64e21ca09cb1157e64dac6
+date: 2007-07-11 18:34:09.000000000 +02:00
+---
+Naleząca do grupy Cisco Systems firma Linksys oraz internetowa sp&oacute;łka o2.pl nawiązały wsp&oacute;łpracę, kt&oacute;rej celem jest stworzenie wsp&oacute;lnej oferty usług VoIP dla klient&oacute;w w Polsce.<p>{mosgoogle}</p><p>Portal o2.pl wprowadził do swojej oferty bramki do telefon&oacute;w analogowych Linksys PAP2T wsp&oacute;łpracujące z usługą Tlenofon. Jedynym warunkiem, jaki klienci muszą spełnić, aby skorzystać z oferty jest posiadanie w domu lub w biurze dostępu do szerokopasmowego łącza internetowego. <br /> <br /> Użytkownik otrzymuje bramkę PAP2T, kt&oacute;rą wystarczy podłączyć do sieci, a aktywacja i konfiguracja odbędzie się automatycznie. Dzięki bramce VoIP użytkownik może korzystać z Tlenofonu stosując dowolny, analogowy aparat telefoniczny. Wraz z urządzeniem użytkownik otrzymuje bezpłatnie własny, stały numer telefonu. <br /> <br /><em>Zdecydowaliśmy się zaoferować klientom subsydiowane bramki VoIP w powiązaniu z naszymi usługami, ponieważ w ten spos&oacute;b możemy pokonać największą przeszkodę stojącą na drodze do masowego korzystania z telefonii internetowej: cenę urządzeń</em> - powiedział Jacek Świderski, członek zarządu firmy o2.pl. </p>

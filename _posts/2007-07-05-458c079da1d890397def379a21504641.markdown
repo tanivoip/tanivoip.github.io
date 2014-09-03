@@ -1,0 +1,8 @@
+---
+layout: post
+title: Czego nie potrafi iPhone
+joomla_id: 102
+joomla_url: 458c079da1d890397def379a21504641
+date: 2007-07-05 16:15:12.000000000 +02:00
+---
+Gorączka związana z premierą najnowszego telefonu firmy Apple trwa. Tymczasem większość jego funkcji była rewolucją, lecz kilka lat temu.<p>{mosgoogle}</p><p>Kampania reklamowa towarzysząca wprowadzeniu iPhone na amerykański rynek jest jedną z najbardziej skutecznych w historii marketingu usług telekomunikacyjnych. Wystarczy wspomnieć na przykład o spocie reklamowym podczas tegorocznej gali oscarowej. <br /> <br /> Tymczasem, odzierając ten zdecydowanie efektowny gadżet z marketingowej otoczki, pozostaje nam urządzenie, kt&oacute;re zaskakuje przestarzałymi rozwiązaniami.<br /> <br /> Dużym problemem jest w iPhone zainstalowana &bdquo;na stałe&rdquo; (podobnie jak w innych produktach firmy Apple) bateria, kt&oacute;rą trzeba wymieniać po około 400 ładowaniach. Telefon nie działa w sieciach UMTS, co uniemożliwia szybkiej transmisji danych poza zasięgiem WiFi. Nie można r&oacute;wnież korzystać z MMS oraz dzwonk&oacute;w w formacie mp3. Nie nagramy r&oacute;wnież na nim film&oacute;w i nie skorzystamy z zewnętrznej karty pamięci. <br /> <br /> Złośliwi komentatorzy mogliby powiedzieć, że Apple sp&oacute;źniło się z premierą swojego &quot;rewolucyjnego&quot; gadżetu o dobrych parę lat. Nokia, mimo wierności prostocie, własnemu stylowi, jest zawsze na bieżąco z postępem technologicznym. Apple najwyraźniej chce go op&oacute;źnić.<br /> <br /> Godnym uwagi jest jednak dotykowy panel sterowana i obecności &bdquo;na pokładzie&rdquo; OS X, czyli systemu operacyjnego znanego ze stacjonarnych komputer&oacute;w Mac. </p>

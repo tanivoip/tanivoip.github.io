@@ -1,0 +1,8 @@
+---
+layout: post
+title: Halonet - nowe ale stare?
+joomla_id: 74
+joomla_url: ee35f90987ecc389f7a08c9b2a132913
+date: 2007-06-15 17:12:37.000000000 +02:00
+---
+Na stronach Halonet można przeczytać o nowych promocjach. Ale czy nowych? Zmienia się tylko nazwa na HaloNet EURO a jej zasady są og&oacute;lnie przyjętym standardem w sieciach VoIP - nie promocją. <p>{mosgoogle}</p><p>&quot;Dzięki kompleksowemu rozwiązaniu HaloNet EURO teraz każdy pracownik Państwa firmy uzyskuje możliwość wykonywania połączeń wewnątrz sieci firmowej oraz ze wszystkimi użytkownikami HaloNet  ZA DARMO&quot; czytamy na stronie tego operatora.</p><p>Ale jaka to nowość czy promocja? W każdej sieci VoIP połączenia są za darmo. Wydaje się, że HaloNet nie mając świeżych pomysł&oacute;w sięga po nic nie znaczące hasła reklamowe zgodnie ze starą zasadą:</p><p>Nie ważne jak o nas m&oacute;wią, ważne żeby m&oacute;wili.&nbsp;</p>

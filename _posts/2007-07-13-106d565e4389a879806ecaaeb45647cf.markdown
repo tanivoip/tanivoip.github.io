@@ -1,0 +1,8 @@
+---
+layout: post
+title: Babcia ze Szwecji z najszybszym łączem
+joomla_id: 116
+joomla_url: 106d565e4389a879806ecaaeb45647cf
+date: 2007-07-13 18:49:15.000000000 +02:00
+---
+75-letnia Sibritt L&ouml;thberg z Karlstad w Szwecji dysponuje prawdopodobnie najszybszym prywatnym łączem internetowym na świecie. Połączenie ma prędkość&hellip; 40 Gb/s.<p>{mosgoogle}</p><p>Niesamowicie dużą prędkość zawdzięcza swojemu synowi, Peterowi L&ouml;thbergowi, specjaliście do spraw optycznych łączy internetowych, pracującemu w Cisco. Ma to być rodzajem efektownej prezentacji bardzo szybkich łączy światłowodowych jako platformy, kt&oacute;ra może być dostępna komercyjnie. <br /><br /> Peter L&ouml;thberg przyznał, że chciał w ten spos&oacute;b pokazać, że są inne metody dostępu do Internetu niż staromodne, jego zdaniem kable czy łącza radiowe, kt&oacute;re nie mają takich możliwości jak wł&oacute;kna optyczne. <br /><br /> Sekretem takiej prędkości jest najprawdopodobniej nowa technika modulacji, kt&oacute;ra umożliwia transferowanie danych pomiędzy dwoma routerami odległymi o 2 tys. kilometr&oacute;w bez żadnych przekaźnik&oacute;w. Pozwala to na przesyłanie informacji na duże odległości bez żadnych strat. <br /><br /> Przy takiej prędkości, jaką dysponuje pani L&ouml;thberg, film w jakości DVD można ściągnąć w dwie sekundy. </p>

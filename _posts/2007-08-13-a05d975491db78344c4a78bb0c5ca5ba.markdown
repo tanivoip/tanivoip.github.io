@@ -1,0 +1,8 @@
+---
+layout: post
+title: Problemy z Neostradą
+joomla_id: 154
+joomla_url: a05d975491db78344c4a78bb0c5ca5ba
+date: 2007-08-13 13:41:27.000000000 +02:00
+---
+Użytkownicy Neostrady, internetowej oferty Telekomunikacji Polskiej, skarżą się, że od kilku tygodni nie mogą z niej normalnie korzystać.<p>{mosgoogle}</p><p>Sprawa dotyczy przede wszystkim użytkownik&oacute;w neostrady z Siemia&shy;tycz. Jak czytamy w Gazecie Wyborczej, od kilku tygodni abonentom strony ładują się bardzo wolno, zdarzają się także momenty, że z usługi nie można korzystać wcale.<br /><br />Telekomunikacja Polska problem tłumaczy &quot;przebudową sie&shy;ci szkieletowej transmisyjnej na te&shy;renie powiatu siemiatyckiego&quot;. Nie wiadomo jaki czas przebudowa ma trwać. Mało tego operator nie chce uwzględniac reklamacji klient&oacute;w tłumacząc, że chwilowe niedogodności wynikają z &quot;chęci zapew&shy;nienia użytkownikom lepszej jakości usług telekomunikacyjnych&quot; - opisuje Wyborcza.<br /><br />Problem polega także na tym, że firma r&oacute;żnie traktuje swoich klient&oacute;w. Czytelnikowi, kt&oacute;ry poskarżył się Gazecie narodowy operator nie chciał uwzględnić reklamacji. Ale znajoma czytelnika, kt&oacute;ra także złożyła reklamację, otrzymała od Telekomunikacji Polskiej przeprosiny oraz kilka opcji rozwiązań problemu (np. obniżenie abonamentu). </p>

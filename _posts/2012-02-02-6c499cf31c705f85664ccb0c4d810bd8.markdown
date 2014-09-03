@@ -1,0 +1,8 @@
+---
+layout: post
+title: Inotel stawia na ofertę HD
+joomla_id: 451
+joomla_url: 6c499cf31c705f85664ccb0c4d810bd8
+date: 2012-02-02 13:11:57.000000000 +01:00
+---
+Wielkopolski operator telekomunikacyjny Inotel wprowadza kolejny kanał telewizyjny nadawany w wysokiej rozdzielczości.<p>{mosgoogle}</p><p>BBC HD to brytyjski program emitowany w polskiej wersji językowej prezentujący wielokrotnie nagradzane publikacje m.in. dokumentalne, popularnonaukowe czy rozrywkowe.<br />W ram&oacute;wce stacji BBC HD znaleźć można zar&oacute;wno propozycje brytyjskie, jak i międzynarodowe. Są to m.in. programy dokumentalne i popularnonaukowe, rozrywkowe, filmy oraz seriale fabularne (jak np. &bdquo;Panie z Clatterfold&rdquo; czy &bdquo;Torchwood&rdquo;). Gwarancję krystalicznego dźwięku i obrazu gwarantuje nadawanie kanału w jakości High Definition. <br />Program BBC HD wzbogacił pakiet telewizyjny Max HD, w kt&oacute;rym abonenci Inotela znaleźć mogą już takie propozycje, jak: Animal Planet HD, Discovery HD Showcase, MTV nHD, Polsat Sport HD oraz Nat Geo Wild HD. </p>

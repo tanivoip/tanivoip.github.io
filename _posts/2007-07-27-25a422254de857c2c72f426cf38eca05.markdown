@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linksys zniknie z rynku
+joomla_id: 141
+joomla_url: 25a422254de857c2c72f426cf38eca05
+date: 2007-07-27 11:58:59.000000000 +02:00
+---
+<span>John Chambers ogłośił o decyzji </span>CISCO o zlikwidowaniu marki i wdrożeniu produkt&oacute;w w nową, odświeżoną markę CISCO.<p>{mosgoogle}</p><p>Linksys został założony w 1988 roku i od samego początku zasłynął z wysokiej jakości urządzeń sieciowych. Kiedy wprowadził do swojej oferty urządzenia VoIP integrując je z ruterami i punktami dostępu WiFi, znaleźli się w zainteresowaniu firmy CISCO co skończyło się na ich sprzedaży w 2003 roku.</p><p>Niemniej Linksys mając bardzo silną markę i wysoką rozpoznawalność w USA zachował swoją nazwę.</p><p><span>Posunięcie to jest następstwem kwietniowej decyzji o połączeniu sprzeaży urządzeń CISCO w kanale reselerskim Linksysa i vice versa.</span></p><p><img src="images/obrazy/linksys_logo.jpg" alt="Logo Linksys" width="206" height="73" align="left" /><img src="images/obrazy/cisco_logo.gif" alt="Logo CISCO" width="110" height="73" align="right" /> </p>

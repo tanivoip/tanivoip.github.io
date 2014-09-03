@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0 300 i 0 708 z Dialogu dla klientów Orange
+joomla_id: 85
+joomla_url: d34941c8818ebc478ac258cba55ecb68
+date: 2007-06-25 15:46:23.000000000 +02:00
+---
+Telefonia Dialog udostępniła usługi o&nbsp;podwyższonej opłacie 0708 oraz 0300 klientom sieci kom&oacute;rkowej Orange.<p>{mosgoogle}</p><p>Usługi DIALOG 0300 zostały udostępnione klientom Orange w czerwcu, z serwis&oacute;w uruchomionych w ramach DIALOG 0708 mogą oni dzwonić już od marca br.<br /><br /> Do tej pory z tych serwis&oacute;w mogli korzystać tylko abonenci telefon&oacute;w stacjonarnych. Dla połączeń z sieci kom&oacute;rkowych dostawcy musieli utrzymywać&nbsp;oraz - co było nawet bardziej uciążliwe &ndash; promować osobny numer telefoniczny. Takie kampanie były bardziej kosztowne, wiązały się też często z utrudnioną, niejednoznaczną komunikacją promującą r&oacute;wnocześnie klika numer&oacute;w dla jednego serwisu.<br /><br /><!--   onet('adsGet1','main2-box') //--><!--   onet('adsGet2') //--> Teraz ten problem jest już częściowo rozwiązany. Dostawcy serwis&oacute;w korzystający z linii DIALOG 0708 i 0300 zyskali dostęp do grona ponad 10 milion&oacute;w klient&oacute;w sieci Orange. Wkr&oacute;tce poszerzy się on o klient&oacute;w kolejnych sieci kom&oacute;rkowych.</p><p>Oznacza to, że numery do taniego dzwonienia za granicę w cenie 35 gr za minutę zostały udostępnione tym abonentom. Przykładem takiej usługi może być serwis <a href="http://www.hopin.pl" target="_blank">HopIn.pl</a>  z usługą <a href="http://708.hopin.pl">708.hopin.pl</a>.</p>

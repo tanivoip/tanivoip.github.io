@@ -1,0 +1,8 @@
+---
+layout: post
+title: Centrala ICT z obsługą VoIP
+joomla_id: 114
+joomla_url: 273ad3077ecc5fd0a20ee76dea08bedc
+date: 2007-07-12 18:01:39.000000000 +02:00
+---
+Funkwerk Enterprise udostępnił nową (7.3) wersję oprogramowania systemowego (firmware) dla system&oacute;w telekomunikacyjnych z serii elmeg ICT oraz modułu bramy VoIP/VPN gateway.<p>{mosgoogle}</p><p>Aktualna wersja oprogramowania oferuje kilka nowych funkcji, szczeg&oacute;lnie funkcjonalności VoIP. Z ważniejszych ulepszeń należy wymienić funkcję call-through, czyli tzw. przedzwanianie. Dzięki niej użytkownik może dodzwonić się do swojej centralki, a następnie wykonać połączenie wykorzystując jej linie wewnętrzne i zewnętrzne &ndash; stacjonarne lub VoIP. <br /> <br /> Z call-through może być związanych do 10 numer&oacute;w telefonicznych, a autoryzacja dostępu do funkcji odbywa się na podstawie kodu PIN lub prezentacji numeru (np. tylko użytkownicy identyfikujący się określonym numerem telefonu mogą korzystać z call-through). Funkcja przedzwaniania znajdzie zastosowanie np. w firmach posiadających moblilnych pracownik&oacute;w &ndash; dzięki call through mogą oni połączyć się z centralą przez telefon kom&oacute;rkowy i korzystać z firmowych linii miejskich oraz VoIP do np. połączeń międzynarodowych. </p>

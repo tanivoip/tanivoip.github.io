@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowe funkcjonalności FreecoNet
+joomla_id: 47
+joomla_url: c866bf30df43601e4fc57dc16cfb15bd
+date: 2007-06-11 21:46:11.000000000 +02:00
+---
+FreecoNet, platforma VoIP integrująca rozwiązania wielu operator&oacute;w i umożliwiająca rozmowy za darmo lub po najniższych stawkach, powieksza swoja ofertę o nowe możliwości.<p>{mosgoogle}</p>W ostatnim czasie pojawiło się kilka nowości, kt&oacute;re usprawniają użytkownikom korzystanie z FreecoNet. Pierwsza z nich to możliwość dzwonienia po loginach. Użytkownicy, korzystający z FreecoNet przez program komputerowy (tzw. Softphone), nie muszą już wybierać numeru telefonu osoby, z kt&oacute;rą chcą rozmawiać. Wystarczy tylko wpisać w programie login, jaki posiada ona we FreecoNet i już można dzwonić. <br /> <br /> Kolejna funkcjonalność to możliwość eksportowania zestawień połączeń wychodzących i przychodzących do Excela, bezpośrednio z panelu użytkownika. Jest to użyteczne w przypadku firm, kt&oacute;re dzięki temu mają raporty z połączeń w fizycznej postaci za wybrany okres w dowolnym czasie.<br /> <br /> Warto też wspomnieć, że w panelu użytkownika FreecoNet można sprawdzić, czy numer na kt&oacute;ry dzwonimy jest we FreecoNet. Ma to duże znaczenie dla każdego użytkownika, bo połączenia na numery zarejestrowane we FreecoNet są zawsze darmowe.

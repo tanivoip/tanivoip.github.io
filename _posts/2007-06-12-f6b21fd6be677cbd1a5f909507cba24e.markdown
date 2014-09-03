@@ -1,0 +1,8 @@
+---
+layout: post
+title: Crowley z usługą DSL
+joomla_id: 57
+joomla_url: f6b21fd6be677cbd1a5f909507cba24e
+date: 2007-06-12 14:58:15.000000000 +02:00
+---
+Firma Crowley Data Poland wzbogaciła swoje portfolio o nową linię produktową wykorzystującą  technologię DSL.<p>{mosgoogle}</p>Nowe usługi skierowane są do małych firm oraz oddział&oacute;w większych korporacji. Usługi dostępne będą w dw&oacute;ch opcjach realizacyjnych: Crowley Internet DSL -oferujący pięć wariant&oacute;w dostępu do Internetu opartego o łącza asymetryczne o przepustowościach w zakresie ściągania danych od 512 kb/s do 6 Mb/s oraz Crowley IP VPN DSL czyli możliwość zestawienia asymetrycznego łącza transmisji danych r&oacute;wnież w pięciu opcjach prędkości ściągania danych. <br /> <br /> Nowa grupa produkt&oacute;w opartych o technologię DSL stanowi uzupełnienie dotychczasowej oferty firmy oraz rozszerzenie dostępności usług Crowley Data Poland.

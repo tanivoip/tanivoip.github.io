@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowa usługa operatora Betamax
+joomla_id: 48
+joomla_url: 5108c4da6f9e5e5569d3b8093c38e55c
+date: 2007-06-11 21:47:38.000000000 +02:00
+---
+Betamax, niezależny europejski operator telefonii internetowej, uruchomił nową usługę o nazwie 12Voip.<p>{mosgoogle}</p>12Voip to kolejna usługa tego operatora rozszerzająca możliwości wybrania korzystnej palety bezpłatnych połaczeń. Cechą charakterystyczą usługi jest konieczność dopisania do listy kontakt&oacute;w numer&oacute;w telefon&oacute;w os&oacute;b z kt&oacute;rymi chcemy rozmawiać w ramach darmowych dni. <br /> <br /> W innym wypadku połączenia te taryfikowane są według normalnych stawek. Okres &quot;freedays&quot; dla tej usługi wynosi 120 dni. Polska jest na liście darmowych kierunk&oacute;w w ramach &quot;freedays&quot;.

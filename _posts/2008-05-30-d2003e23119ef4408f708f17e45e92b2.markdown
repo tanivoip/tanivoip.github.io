@@ -1,0 +1,8 @@
+---
+layout: post
+title: FreecoNet na Dzień Dziecka
+joomla_id: 250
+joomla_url: d2003e23119ef4408f708f17e45e92b2
+date: 2008-05-30 14:57:35.000000000 +02:00
+---
+FreecoNet w związku z nadchodzącym Dniem Dziecka przypomina o swoim telefonicznym serwisie bajkowym. Dzwoniąc pod specjalny numer, można posłuchać bajek czytanych przez wirtualnego lektora.<p>{mosgoogle}</p><p>Bajki i baśnie do posłuchania przez telefon to usługa, kt&oacute;rą FreecoNet adresuje przede wszystkim do najmłodszych. Każdy maluch, kt&oacute;ry zadzwoni pod numer +48 (58) 73 11 952, będzie m&oacute;gł wybrać bajkę do posłuchania. Opr&oacute;cz istniejących już w serwisie bajek: &bdquo;Brzydkie kaczątko&rdquo;, &bdquo;Lokomotywa&rdquo; i &bdquo;Złota kaczka&rdquo;, dostępne są dwie nowe - &bdquo;Księżniczka na ziarnku grochu&rdquo; oraz &bdquo;Dziewczynka z zapałkami&rdquo;. Dla wszystkich zarejestrowanych we FreecoNet usługa jest bezpłatna, natomiast pozostałe połączenia z numer&oacute;w niezarejestrowanych na platformie są taryfikowane według stawek poszczeg&oacute;lnych operator&oacute;w.<br /><br />Bajkowy serwis FreecoNet to przykład zastosowania zaawansowanych usług dodanych platformy. Wykorzystują one technologię syntezy mowy i można je tworzyć w bardzo łatwy spos&oacute;b. Treść bajek wprowadzana jest w panelu użytkownika FreecoNet z klawiatury komputera, a następnie przy każdym połączeniu telefonicznym bajka jest czytana w czasie rzeczywistym przez wirtualnego lektora. W identyczny spos&oacute;b usługę tę mogą wykorzystać np. firmy do stworzenia systemu powitań i przekierowań połączeń telefonicznych. </p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Bramka internetowa z zarządzaniem pasmem
+joomla_id: 98
+joomla_url: e85e82b007fddafab013c8eccb50c425
+date: 2007-07-04 19:59:12.000000000 +02:00
+---
+Planet Technology wprowadził na polski rynek bramkę internetową zaprojektowaną specjalnie dla małych firm.<p>{mosgoogle}</p><p>Urządzenie PLANET BM-2110 posiada wbudowane cztery porty 10/100Mbps Ethernet w tym dwa porty WAN oraz po jednym porcie DMZ i LAN. Dla użytkownik&oacute;w posiadających tylko jeden publiczny adres IP nie jest wymagany dodatkowy router szerokopasmowy. Bramka obsługuje r&oacute;wnież serwer wirtualny, Multi-DMZ, oraz dynamiczny DNS. <br /> <br /> Klasyfikowanie ruchu sieciowego odbywa się w oparciu o adres IP, podsieci IP oraz numery port&oacute;w TCP/UDP. Urządzenie obsługuje ponad 40 najczęściej używanych protokoł&oacute;w takich jak H.323, Oracle, HTTP, FTP, i inne. Administrator ma możliwość definiowania reguł określających poziomy gwarantowanego oraz maksymalnego pasma dla ruchu wchodzącego i wychodzącego w każdej klasie. <br /> <br />Można r&oacute;wnież zdefiniować trzy poziomy priorytet&oacute;w dla każdej reguły, tak aby pakiety o najwyższym priorytecie otrzymywały maksymalne dostępne pasmo. Dodatkowo każda reguła może mieć określony terminarz aktywacji i dezaktywacji w przedziałach 30 minutowych.<br /> <br /> Obsługiwany jest zar&oacute;wno tryb NAT jak i DMZ, dlatego nie ma konieczności dokonywania rekonfiguracji istniejącej struktury sieciowej. BM-2101 posiada r&oacute;wnież Firewall bazujący na regułach i kilka innych zabezpieczeń przed włamaniami do sieci. </p>

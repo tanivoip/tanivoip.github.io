@@ -1,0 +1,8 @@
+---
+layout: post
+title: Datera o usługach dodanych na konferencji Informedia
+joomla_id: 295
+joomla_url: 4be25ac3f034e3678a6b1e1bb52bba87
+date: 2008-12-10 15:25:22.000000000 +01:00
+---
+W dniach 26-27 listopada 2008 r. w Warszawie miała miejsce konferencja na temat usług dodanych w branży telekomunikacyjnej i medialnej. Referat dotyczący usług w telefonii VoIP przedstawiła firma Datera SA.<p>{mosgoogle}</p><p>Uczestnicy konferencji mieli okazję zapoznać się z kompleksowym pakietem usług dodanych VoIP, ze szczeg&oacute;lnym uwzględnieniem rozwiązań dedykowanych do sektora biznesowego. Produkt Datery - platforma telefonii internetowej FreecoNet &ndash; posiada obecnie najbogatszą ofertę spośr&oacute;d istniejących w Polsce operator&oacute;w VoIP. Podczas wystąpienia przedstawiono m.in. możliwości najbardziej zaawansowanych i tanich w eksploatacji rozwiązań &ndash; hostowanych system&oacute;w IVR i Call Center, a także konsolę faksową, usługi wykorzystujące technologię syntezy mowy (np. tzw. VoiceXML) czy aplikacje oparte o technologię Flash.<br /><br />Krzysztof Malicki &ndash; Prezes Zarządu Datera SA i prelegent konferencji &ndash; zarysował r&oacute;wnież og&oacute;lne trendy na rynku i kierunek rozwoju technologii VoIP. Zachodzące zmiany determinują powstawanie nowych rozwiązań, kt&oacute;re wynikają m.in. z konwergencji technologii VoIP z PSTN i GSM.</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: ! "Datera SA z tytułem \x1EInnowacja Roku 2007\x1D"
+joomla_id: 178
+joomla_url: f3625317d257d80e9fe7c20de3484bd1
+date: 2007-09-14 13:30:16.000000000 +02:00
+---
+FreecoNet wraz z usługą TelArena po raz kolejny zostały docenione przez ekspert&oacute;w. Stworzonej przez Datera SA platformie VoIP przyznano tytuł &bdquo;Innowacja Roku 2007&rdquo;.<p>{mosgoogle}</p><p>Konkurs &bdquo;Innowacja Roku&rdquo; organizowany jest przez redakcję ForumBiznesu.pl i ma na celu promowanie i uhonorowanie wyr&oacute;żniających się innowacyjnością produkt&oacute;w i usług, nowych lub zmodyfikowanych, kt&oacute;re zostały wprowadzone na rynek w okresie od 1 marca 2006 roku do 28 lutego 2007 roku. Przyznane firmie Datera SA wyr&oacute;żnienie to kolejne potwierdzenie zaawansowania technologicznego i użyteczności platformy FreecoNet.<br /><br />&bdquo;<em>Kolejna nagroda za projekt FreecoNet cieszy ogromnie cały zesp&oacute;ł Datery. Niespełna rok od debiutu, okrzyknięto nas Pomorskim Liderem Innowacji, przyznano tytuły &bdquo;Nadzieja Roku 2007&rdquo;, a teraz &bdquo;Innowacja Roku 2007&rdquo;. To nas motywuje do jeszcze większego wysiłku w udoskonalaniu FreecoNet. Niedawno naszą ofertę wzbogaciliśmy o możliwość dzwonienia z kom&oacute;rek przez FreecoNet. W pierwszą rocznicę uruchomienia platformy, 18 września, przedstawimy pakiet innowacyjnych usług dodanych, wykorzystujących syntezator mowy ludzkiej IVONA</em>&rdquo; - zapowiada Krzysztof Malicki, Prezes Zarządu, Datera SA. </p>

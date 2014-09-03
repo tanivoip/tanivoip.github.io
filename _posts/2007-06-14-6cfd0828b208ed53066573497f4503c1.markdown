@@ -1,0 +1,8 @@
+---
+layout: post
+title: Domowy Bluetooth do VoIP od Voiis
+joomla_id: 73
+joomla_url: 6cfd0828b208ed53066573497f4503c1
+date: 2007-06-14 23:52:58.000000000 +02:00
+---
+<p>Firma Voiis zbudowała Pocket Messenger Phone. <br />Urządzenie łączy się ze stacją bazową wykorzystując łączność bluetooth. Zapewnia odbierania połączeń Skype czy MSN w promieniu 100 m od swojego odbiornika.</p><p>{mosgoogle}</p><p>&nbsp;<img src="http://www.watch.impress.co.jp/av/docs/20070613/axes1.gif" border="0" alt=" " width="160" height="120" align="left" /></p><p>Urządzenie to posiada gniazdo słuchawkowe, wbudowany mały głośnik oraz mikrofon. Opr&oacute;cz rozm&oacute;w VoIP zabawka ta pozwala także na odsłuch muzyki bezpośrednio z komputera. Obsługę ułatwia niewielki wyświetlacz. Baterie wystarczają na 6 godzin pracylub 72 godziny czuswania.</p><p>Cena - 130 USD, dostępny od 12 czerwca 2007. </p>

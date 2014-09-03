@@ -1,0 +1,8 @@
+---
+layout: post
+title: VoIP łączy FreecoNet i Grandstream
+joomla_id: 285
+joomla_url: 24054c54031f2ec2506bc04f8935c69e
+date: 2008-11-13 18:12:16.000000000 +01:00
+---
+Datera SA oraz Impet Computers Sp. z o.o. nawiązały wsp&oacute;łpracę w zakresie wsp&oacute;lnej promocji rozwiązań Grandstream w Polsce.<p>{mosgoogle}</p><p>Dzięki podjętej wsp&oacute;łpracy, w sprzedaży dostępne będą telefony IP oraz bramki VoIP producenta Grandstream, do kt&oacute;rych dołączane będą materiały dotyczące platformy telefonii internetowej &ndash; FreecoNet. Opr&oacute;cz tego, bramki VoIP Grandstream będą prekonfigurowane do działania we FreecoNet. To oznacza, że osoby je kupujące nie będą musiały tracić czasu na ręczną konfigurację i zgłębianie technicznych zagadnień. Po podłączeniu do zasilania i Internetu, telefon IP lub bramka VoIP będą praktycznie gotowe do działania we FreecoNet.<br /><br />Wybierając sprzęt Grandstream przystosowany do działania we FreecoNet, można korzystać z bogatej oferty popularnego w Polsce usługodawcy telefonii internetowej. Połączenia telefoniczne w ramach FreecoNet są zawsze darmowe, na polskie i zagraniczne numery stacjonarne od 5 groszy brutto, a na kom&oacute;rki od 36 groszy brutto za minutę połączenia. Do dyspozycji użytkownik&oacute;w FreecoNet jest r&oacute;wnież liczny zestaw usług dodanych, jak: poczta głosowa, przekierowanie połączeń, FlashPhone, FreecoNet Mobile, hostowane systemy IVR, Call Center i wiele innych rozwiązań.<br /><br />Prekonfigurowany do działania we FreecoNet sprzęt VoIP producenta Grandstream będzie dostępny w sklepach internetowych <a href="http://www.4ip.pl" target="_blank">www.4ip.pl</a>  oraz <a href="http://www.wishop.pl" target="_blank">www.wishop.pl</a>. </p>

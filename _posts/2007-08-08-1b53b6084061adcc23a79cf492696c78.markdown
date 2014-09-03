@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kolejne bankructwo operatora VoIP
+joomla_id: 150
+joomla_url: 1b53b6084061adcc23a79cf492696c78
+date: 2007-08-08 13:11:23.000000000 +02:00
+---
+Operator Pac-West poinformował na swoich stronach o rozpoczęciu procedury upadłościowej dla jednej ze swoich sp&oacute;łek obsługującą klient&oacute;w we wschodniej części USA.<p>{mosgoogle}</p><p>Firma koncentruje się na obsłudze klient&oacute;w w zachodniej części Stan&oacute;w Zjednoczonych. Wszyscy jej dotychczasowi klienci zostali poinformowani mailowo o sytuacji i mają 30 dni na zmianę swojego operatora.</p><p>Jest to już kolejny taki przypadek operatora VoIP w USA. Jak widać konkurencja na tamtym rynku już zaczyna wpływać na sytuacje finansowe mniejszych operator&oacute;w. Pytanie pozostaje, kiedy w Polsce usłyszymy o pierwszych operatorach zamykających swoją działalność. </p>

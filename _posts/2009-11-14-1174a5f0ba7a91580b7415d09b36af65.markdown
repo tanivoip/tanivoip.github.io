@@ -1,0 +1,8 @@
+---
+layout: post
+title: HopIn.pl obniża koszt połączeń komórkowych
+joomla_id: 362
+joomla_url: 1174a5f0ba7a91580b7415d09b36af65
+date: 2009-11-14 01:01:23.000000000 +01:00
+---
+Z dniem 14 listopada serwis HopIn.pl obniżył cenę na połączenia kom&oacute;rkowe do 3 największych polskich operator&oacute;w: Era, Orange oraz Plus.<p>{mosgoogle}</p><p>Od dziś koszt połączenia z numerem obsługiwanym przez tych operator&oacute;w wynosi jedynie 39 groszy brutto za minutę połączenia.<br /><br />Standardowo już w serwisie HopIn.pl zostaje utrzymana taryfikacja sekundowa z naliczaniem od samego początku połączenia.<br /><br />Jednocześnie od tego momentu HopIn.pl oferuje tylko jedną taryfę na połączenia z telefonami kom&oacute;rkowymi. Klient dalej może wybrać czy chce sw&oacute;j numer zastrzec - ta usługa dalej jest świadczona bezpłatnie.<br /><br />Pełen aktualny cennik serwisu <a href="http://www.hopin.pl">HopIn.pl</a>  można pobrać stąd klikając <a href="http://www.hopin.pl/images/cennik_hopin.pdf">TUTAJ</a>.</p>

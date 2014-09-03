@@ -1,0 +1,8 @@
+---
+layout: post
+title: E-Telko ma WLR w TP
+joomla_id: 44
+joomla_url: e26ea307e68cb9788ac2f1b8c0dabc4d
+date: 2007-06-06 22:37:30.000000000 +02:00
+---
+6. czerwca prezes UKE ustalił warunki hurtowego dostępu do sieci Telekomunikacji Polskiej dla firmy E-Telko. Dzięki decyzji E-Telko będzie mogła sprzedawać abonament telefoniczny klientom TP.<p>{mosgoogle}</p>E-Telko ma standardową zniżkę przy tego typu umowach - 46,99% od abonamentu standardowego - czyli od każdego klienta będzie płaciła TP 20,05 zł netto za łącze analogowe i 29,16 zł netto za łącze cyfrowe ISDN.<br /><br />Decyzję o WLR mają już:<br /> Tele2<br /> GTS Energis<br /> Telefonia Dialog<br /> Premium Internet<br /> Polkomtel<br /> Exatel<br /> eTel<br /> PTC

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Z Orange na 39 w HopIn.pl
+joomla_id: 224
+joomla_url: ceaf60be9cc07a5e68fcf0d8826f297c
+date: 2007-12-29 08:11:19.000000000 +01:00
+---
+Operator <strong style="color: #cc0033">HopIn.pl</strong> poinformował o możliwości wykonywania połączeń telefonicznych z telefon&oacute;w kom&oacute;rkowych sieci <strong style="color: #ffa500">Orange</strong> na oferowaną przez nich numerację niegeograficzną <strong>39</strong>.<p>{mosgoogle}</p><p>W swoim komunikacie serwis <strong style="color: #cc0033">HopIn.pl</strong> poinformował, iż od niedawna jest możliwe wykonywanie połączeń z telefon&oacute;w w sieci <strong style="color: #ffa500">Orange</strong> na oferowaną przez nich niegeograficzną strefę 39. Jest to kolejny krok w rozwoju tej numeracji, kt&oacute;ra powstała gł&oacute;wnie z myślą o operatorach VoIP.</p><p>R&oacute;wnież cały czas rośnie lista operator&oacute;w zagranicznych, kt&oacute;rzy umożliwiają dodzwonienie się na tą numerację.</p><p>Sieć <strong style="color: #cc0033">HopIn.pl</strong> ofertuje numerację 39 od samego początku jej powstania. Numeracja ta jest dostępna zar&oacute;wno do usługi połączeń przychodzących w technologii <strong style="color: #000000">VoIP</strong> jak i w usłudze <strong style="color: #0000ff">Wirtualny Fax</strong>.</p><p>Więcej na temat usługi <strong style="color: #0000ff">Wirtualny Fax</strong> w sieci <strong style="color: #cc0033">HopIn.pl</strong> można dowiedzieć się <a href="http://www.hopin.pl/content/view/147/96/">tutaj</a>.</p><p>Więcej na temat strefy <strong>39</strong> w serwisie <strong style="color: #cc0033">HopIn.pl</strong> można przeczytać <a href="http://www.hopin.pl/content/view/262/95/">tutaj</a>.</p>

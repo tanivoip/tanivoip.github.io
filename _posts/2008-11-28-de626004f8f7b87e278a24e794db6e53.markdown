@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tańsze rozmowy we FreecoNet
+joomla_id: 290
+joomla_url: de626004f8f7b87e278a24e794db6e53
+date: 2008-11-28 19:14:16.000000000 +01:00
+---
+Użytkownicy FreecoNet mogą teraz zaoszczędzić jeszcze więcej na rozmowach telefonicznych. Obniżyły się bowiem ceny połączeń realizowanych za pośrednictwem GTS Energis, kt&oacute;ry jest jednym z operator&oacute;w TelAreny - modułu w ramach FreecoNet.<p>{mosgoogle}</p><p>Do tej pory połączenia realizowane przez GTS Energis na numery stacjonarne w Polsce miały płaską stawkę &ndash; 9 groszy brutto za minutę rozmowy. Obecnie opłaty za pośrednictwem tego operatora są zr&oacute;żnicowane i uzależnione od kierunku, w kt&oacute;rym dzwonimy i pory dnia &ndash; od 5 do 9 groszy brutto. Operator obniżył też stawkę na połączenia kom&oacute;rkowe z prezentacją numeru do poziomu 55 groszy brutto za minutę rozmowy (wcześniej &ndash; 62 grosze). Użytkownicy FreecoNet mniej też zapłacą dzwoniąc do abonent&oacute;w sieci Play &ndash; nawet 69 groszy brutto (wszystkie dni w tygodniu w godzinach 22:00-8:00), natomiast połączenia na numery Polsat Cyfrowy mają płaską stawkę - 70 groszy brutto za minutę.<br /><br />Nowe stawki połączeń obowiązują od 19 listopada br. Są one dostępne dla użytkownik&oacute;w FreecoNet w ramach usługi TelArena. Obecni na TelArenie operatorzy (Crowley, Deutsche Telekom, EXATEL, GTS Energis i Netia) rywalizują między sobą o obsługę każdego połączenia wychodzącego poza platformę, a wygrywa ten, kt&oacute;ry oferuje najniższą cenę. Rozmowy pomiędzy numerami zarejestrowanymi we FreecoNet realizowane są za darmo.</p>

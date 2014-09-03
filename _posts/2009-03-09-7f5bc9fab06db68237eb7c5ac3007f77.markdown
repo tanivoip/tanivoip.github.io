@@ -1,0 +1,8 @@
+---
+layout: post
+title: Obniżka cen w HaloNet
+joomla_id: 315
+joomla_url: 7f5bc9fab06db68237eb7c5ac3007f77
+date: 2009-03-09 15:33:31.000000000 +01:00
+---
+HaloNet obniża ceny połączeń na telefony kom&oacute;rkowe. Od dnia 6 marca cena za minutę połączenia z wszystkimi operatorami kom&oacute;rkowymi (poza siecią PLAY) wynosi 32gr netto (39gr brutto). To mniej niż z telefonu kom&oacute;rkowego na telefon kom&oacute;rkowy dla większości użytkownik&oacute;w kom&oacute;rek.<p>{mosgoogle}</p><p>HaloNet to także 20 kierunk&oacute;w połączeń za 7 gr brutto &ndash; strefa tanich połączeń obejmuje wszystkie kraje, do kt&oacute;rych najczęściej wyjeżdżają Polacy. Wszystkie inne kraje są w także po bardzo niskich cenach.</p>

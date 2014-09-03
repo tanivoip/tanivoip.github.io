@@ -1,0 +1,8 @@
+---
+layout: post
+title: Przedsiębiorstwa mogą blokować Skype'a
+joomla_id: 187
+joomla_url: 177227cb70c95ed08b751857245c1666
+date: 2007-09-25 18:16:50.000000000 +02:00
+---
+Nowa wersja SmartDefense - bramy służącej do ochrony sieci lokalnych produkcji izraelskiej firmy Check Point, może blokować połączenia typu peer to peer, w tym r&oacute;wnież najpopularniejszy komunikator Skype.<p>{mosgoogle}</p><p>Powodem do wprowadzenia takiej możliwości były niedawne ataki poprzez Skype&#39;a przy pomocy wirus&oacute;w. Autorzy SmartDefense założyli możliwość przeciwdziałania potencjalnym atakom i wbudowali mechanizm prewencji, zapobiegający przyszłym zdarzeniom będącym zagrożeniem dla komputer&oacute;w w sieci lokalnej przedsiębiorstw.<br /><br /> Według szefa marketingu z Check Point, Skype i inne komunikatory jest bardzo przydatnym rozwiązaniem, ale z uwagi na utajony protok&oacute;ł transmisji administratorzy sieci muszą chronić się przed niebezpieczeństwem, stosując ograniczanie możliwości komunikacji. </p>

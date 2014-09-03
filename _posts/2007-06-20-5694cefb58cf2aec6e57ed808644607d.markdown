@@ -1,0 +1,8 @@
+---
+layout: post
+title: Gazeta.pl w Gadu-Gadu
+joomla_id: 81
+joomla_url: 5694cefb58cf2aec6e57ed808644607d
+date: 2007-06-20 17:47:30.000000000 +02:00
+---
+Portal Gazeta.pl uruchomił usługę dostarczania informacji za pomocą komunikatora Gadu-Gadu. Specjalny numer pozwala na bezpłatne otrzymywanie najświeższych informacji z ulubionych kategorii.<p>{mosgoogle}<br />Dzięki numerowi GG:500 każdy użytkownik, kt&oacute;ry umieści go na swojej liście kontakt&oacute;w w komunikatorze Gadu-Gadu będzie m&oacute;gł otrzymywać najświeższe informacje z interesującej go dziedziny. <br /> <br /> Obecnie dostępna jest już opcja odpytywania, dzięki kt&oacute;rej użytkownik po wpisaniu w okno dialogowe nazwy interesującej go kategorii, otrzyma wybraną przez siebie ilość informacji z danego zakresu. <br /> <br /><em>To może nie rewolucja na rynku medi&oacute;w, ale bezsprzecznie możemy m&oacute;wić o innowacji, kt&oacute;ra w wygodny dla Internaut&oacute;w spos&oacute;b pomoże dostarczać im wysokosprofilowaną informację w wybranym przez nich czasie</em> - m&oacute;wi Maciej Wicha, dyrektor serwis&oacute;w informacyjnych i społecznościowych w Pionie Internet Agory.</p>

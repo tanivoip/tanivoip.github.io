@@ -1,0 +1,8 @@
+---
+layout: post
+title: Promocja "10% więcej za doładowanie"
+joomla_id: 378
+joomla_url: 04fe2b3ace1b019af3d3fcb4328f66de
+date: 2010-05-12 18:53:14.000000000 +02:00
+---
+Vars Sp. z o.o. operator sieci iFON oraz HopIn.pl wprowadza specjalną promocję doładowań dla swoich klient&oacute;w.<p>{mosgoogle}</p><p>Klienci do końca maja, mogą skorzystać z oferty &quot;10% więcej za doładowanie&quot; doładowując swoje konto za pomocą tradycyjnego przelewu bankowego.<br /><br />Po każdym doładowaniu za minimum 50 zł dokonanym za pomocą tradycyjnego przelewu bankowego, użytkownik otrzyma bonus w wysokości 10% kwoty doładowania.</p><p>Promocja jest ograniczona czasowo i trwa do 31 maja 2010r.<br />Warto przypomnieć że doładowania w iFON i HopIn.pl nigdy nie tracą ważności dzięki czemu promocyjne doładowanie może służyć dowolnie długi okres czasu, aż do wyczerpania środk&oacute;w na koncie! </p>

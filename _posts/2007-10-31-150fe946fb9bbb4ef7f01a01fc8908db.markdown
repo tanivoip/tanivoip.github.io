@@ -1,0 +1,8 @@
+---
+layout: post
+title: FreecoNet pomnoży, podzieli i powie godzinę
+joomla_id: 203
+joomla_url: 150fe946fb9bbb4ef7f01a01fc8908db
+date: 2007-10-31 18:19:11.000000000 +01:00
+---
+&bdquo;Kalkulator&rdquo; i &bdquo;Zegarynka&rdquo; to dwa przykłady zastosowań  usług dodanych platformy FreecoNet. Do ich stworzenia wykorzystano technologię syntezy mowy.<p>{mosgoogle}</p><p>&bdquo;Zegarynka&rdquo; to dla wielu sentymentalne wspomnienie  usługi popularnej gł&oacute;wnie w czasach PRL i lat &#39;90, a teraz już nieco  zapomnianej. FreecoNet wprowadza teraz tą usługę. Dzwoniąc na numer +48 (58) 73  11 951, zawsze będzie można usłyszeć aktualną godzinę. Natomiast kolejna usługa  FreecoNet &ndash; &bdquo;Kalkulator&rdquo; pozwala na wykonanie podstawowych działań  matematycznych z klawiatury telefonu. Pod numerem telefonu +48 (58) 73 11 950  można sprawdzić, jak działa ta usługa.</p> <p style="margin-bottom: 0cm">Dostęp do obu tych usług jest bezpłatny dla  użytkownik&oacute;w FreecoNet, natomiast dla pozostałych &ndash; wg stawek poszczeg&oacute;lnych  operator&oacute;w.</p><p>&bdquo;Zegarynka&rdquo; i &bdquo;Kalkulator&rdquo; to przykłady zastosowań  najnowszych usług wykorzystujących syntezę mowy, kt&oacute;re zostały wprowadzone w  ostatnim czasie do oferty platformy FreecoNet. Niedawno FreecoNet uruchomił  r&oacute;wnież inne usługi wykorzystujące syntezę mowy: rozbudowany system automatycznej informacji głosowej oraz Call Center.</p>

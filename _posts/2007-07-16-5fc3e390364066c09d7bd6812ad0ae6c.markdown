@@ -1,0 +1,8 @@
+---
+layout: post
+title: Lepsze przekierowanie połączeń
+joomla_id: 117
+joomla_url: 5fc3e390364066c09d7bd6812ad0ae6c
+date: 2007-07-16 06:22:29.000000000 +02:00
+---
+Serwis <strong style="color: #cc0033">HopIn.pl</strong> wzbogacił funkcjonalność funkcji przekierowania połączeń przychodzących &#39;gdy nie odbieram&#39;.<p>{mosgoogle}</p><p>Dotychczas przekierowanie na inny numer w momencie nie odbierania połączenia na urządzeniu VoIP było skonfigurowane na 30 sekund. W tej chwili użytkownik może sam określić po jakim czasie dzwonienia system ma połączyć z alternatywnym numerem. Można ustawić przedział czasowy od 10 do 60 sekund.<br /><br />Dodatkowo użytkownik ma wyb&oacute;r czy na numerze na kt&oacute;ry zostało przekierowane połączenie ma zostać wyświetlony numer konta VoIP z serwisu <strong style="color: #cc0033">HopIn.pl</strong> (tak jak dotychczas) czy ma zostać pokazany numer dzwoniący.<br /><br />Użytkownik wybierając wyświetlanie własnego numeru w sieci <strong style="color: #cc0033">HopIn.pl</strong> będzie wiedział, że jest to połączenie przekierowane przez serwis, lecz nie będzie wiedział kto do niego dzwoni. W drugiej opcji użytkownik wie kto do niego dzwoni, lecz nie jest świadom, że połączenie to zostało przekierowane z jego numeru w sieci <strong style="color: #cc0033">HopIn.pl</strong>.<br /><br />W przypadku przekierowania na telefon kom&oacute;rkowy należy skorzystać z Taryfy Standard, aby m&oacute;c uzyskać wyświetlanie numeru na telefonie kom&oacute;rkowym.<br /><br />Więcej na ten temat można przeczytać <a href="http://www.hopin.pl/content/view/228/94/">tutaj</a>.</p>

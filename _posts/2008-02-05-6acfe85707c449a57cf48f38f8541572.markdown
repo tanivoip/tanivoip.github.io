@@ -1,0 +1,8 @@
+---
+layout: post
+title: Gorąca Linia w ofercie IPFON
+joomla_id: 230
+joomla_url: 6acfe85707c449a57cf48f38f8541572
+date: 2008-02-05 11:49:51.000000000 +01:00
+---
+Operator telefonii internetowej IPFON wprowadził do swojej oferty najnowsze rozwiązanie &ndash; bezpłatną usługę dodaną &bdquo;Gorąca Linia&rdquo;.<p>{mosgoogle}</p><p>Najnowsza usługa IPFON powstała przede wszystkim z myślą o małych dzieciach czy osobach starszych, kt&oacute;re mogą szybko połączyć się telefonicznie z rodzicem czy opiekunem, bez konieczności wybierania numeru telefonu. Idea działania usługi polega na tym, że po podniesieniu słuchawki telefonu, system czeka pięć sekund na wprowadzenie numeru telefonu. Jeśli to nie nastąpi, inicjuje w&oacute;wczas połączenie z numerem telefonu, określonym wcześniej przez użytkownika w panelu klienta IPFON24.<br /><br />&bdquo;<em>To bardzo przydatna usługa dla tych naszych użytkownik&oacute;w, kt&oacute;rzy chcą sobie zapewnić większy kontakt ze swoimi pociechami czy starszymi osobami, znajdującymi się pod ich opieką. Często są to osoby, kt&oacute;re nie potrafią samodzielnie wybrać numeru telefonu, lub stanowi to dla nich istotne ograniczenie. Ich rodzice czy opiekunowie, aktywując usługę &bdquo;Gorąca Linia&rdquo;, mogą być zawsze dostępni dla swoich podopiecznych pod wskazanym numerem telefonu, np. kom&oacute;rkowym</em>&rdquo; - m&oacute;wi Przemysław Siwek, Dyrektor ds. Rozwoju IPFON.<br /><br />Nowa usługa &bdquo;Gorąca Linia&rdquo; wzbogaca ofertę rozwiązań alarmowych operatora IPFON i można z niej korzystać bez opłat. Warto zaznaczyć, że spośr&oacute;d wszystkich operator&oacute;w VoIP w Polsce, jedynie IPFON umożliwia wykonywanie połączeń na alarmowy numer 112. </p>

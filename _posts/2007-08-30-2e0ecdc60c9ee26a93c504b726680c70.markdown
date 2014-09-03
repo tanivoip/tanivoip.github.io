@@ -1,0 +1,8 @@
+---
+layout: post
+title: ! 'Akonix: ostrożnie z komunikatorami'
+joomla_id: 170
+joomla_url: 2e0ecdc60c9ee26a93c504b726680c70
+date: 2007-08-30 22:05:38.000000000 +02:00
+---
+<p>Tylko w ciągu minionych 30 dni w Internecie pojawiło się 38 nowych złośliwych program&oacute;w, atakujących popularne komunikatory internetowe. To dwukrotnie więcej niż w lipcu 2007 r. - alarmuje firma Akonix (dostawca rozwiązań z zakresu bezpieczeństwa).</p> <p>{mosgoogle}</p><p>Najgroźniejsze robaki &quot;komunikatorowe&quot;, jakie pojawiły się w minionym miesiącu to Delf, Mimbot, MSNHorm oraz MSNPoopy. Przedstawiciele Akonix dowodzą, iż jest to dow&oacute;d na to, że przestępcy coraz częściej postrzegają komunikatory jako jedną z furtek, przez kt&oacute;rą można wprowadzić złośliwy kod do sieci korporacyjnych.<br /><br />Większość z wykrytych w sierpniu &quot;szkodnik&oacute;w&quot; wykorzystuje komunikatory w podobnych spos&oacute;b - robaki wysyłają do użytkownik&oacute;w programu typu IM wiadomość, zachęcającą do odwiedzania jakiejś strony WWW. Gdy internauta kliknie na zawarty w niej odnośnik, otwierana jest strona internetowa, na kt&oacute;rej osadzony jest niebezpieczny plik (w niekt&oacute;rych przypadkach uruchamia się on sam, wykorzystując np. lukę w przeglądarce, w innych - użytkownik musi uruchomić go samodzielnie).<br /><br />Przedstawiciele Akonix zwracają też uwagę, że wiele firm nie dość skutecznie zabezpiecza swoją infrastrukturę przed zagrożeniami tego typu - m.in. dlatego, że administratorzy nie mają świadomości, jak bardzo popularne są komunikatory. Specjaliści z Akonix zalecają administratorom chcącym zabezpieczyć się przed takimi zagrożeniami wdrożenie rozwiązań do monitorowania ruchu w sieci.</p>

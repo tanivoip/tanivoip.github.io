@@ -1,0 +1,8 @@
+---
+layout: post
+title: InternetDSL - większy upload
+joomla_id: 160
+joomla_url: 57937a47ba5786eaf0ef66218bdc9218
+date: 2007-08-17 14:49:35.000000000 +02:00
+---
+Kilka miesięcy temu Telekomunikacja Polska rozsyłała pisma dla abonent&oacute;w usługi InternetDSL, kt&oacute;rym to informowała o planowanym zwiększeniu prędkości w stronę od abonenta dla opcji 1, 2, 4 i 8 Mb/s. Pomału zaczyna to wchodzić w życie.<p>{mosgoogle}</p><p>Rozsyłane pismo m&oacute;wiło zwiększeniu prędkości z 512 kb/s (dla opcji 4 Mb/s) i 600 kb/s (dla opcji 8 Mb/s) do 800 kb/s oraz do 512 kb/s dla opcji 1 i 2 Mb/s. Nie została podana żadna konkretna data, ale na infolinii można się było dowiedzieć, że ta zmiana planowana jest na III kwartał tego roku.<br /><br />Ostatnimi czasy abonenci, kt&oacute;rzy przedłużali umowę w tym miesiącu, piszą o tym, że mają już zwiększone prędkości, publikując stosowne zrzuty ekranu. Pr&oacute;bowaliśmy oficjalnie wyjaśnić tę sprawę, ale niestety konsultanci nie byli wstanie podzielić się z nami żadnymi szczeg&oacute;łami na ten temat.<br /><br />Z nieoficjalnych informacji, jakie udało nam się uzyskać, wynika, że TP oferuje już podczas przedłużenia umowy 800 kb/s dla opcji 4 i 8 Mb/s, a oficjalnie dla wszystkich oferta ma wejść w życie w nowej promocji jesiennej. Jednak na jakiej zasadzie się to będzie odbywało i dokładnie kiedy, tego nikt nie wie. </p>

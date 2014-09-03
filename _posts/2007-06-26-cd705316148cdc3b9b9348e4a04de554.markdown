@@ -1,0 +1,8 @@
+---
+layout: post
+title: Naliczanie sekundowe w Tlenofonie
+joomla_id: 86
+joomla_url: cd705316148cdc3b9b9348e4a04de554
+date: 2007-06-26 18:52:30.000000000 +02:00
+---
+Usługa Tlenofon zwiększa zasięg o kolejne strefy numeracyjne i wprowadza naliczanie sekundowe.<p>{mosgoogle}</p><p>Od dnia 1 lipca 2007 r. użytkownicy Tlenofonu za rozmowy będą rozliczani sekundowo, a nie za każdą rozpoczętą minutę. Naliczanie sekundowe działać będzie od momentu rozpoczęcia rozmowy.<br /><br /> Nowością w Tlenofonie jest r&oacute;wnież zwiększenie liczby stref numeracyjnych, w kt&oacute;rych dostępne są numery dla użytkownik&oacute;w. Obecnie klienci korzystać mogą z 43 numer&oacute;w kierunkowych i wybierać dla siebie numer telefonu lub faksu z własnej miejscowości. <br /></p>

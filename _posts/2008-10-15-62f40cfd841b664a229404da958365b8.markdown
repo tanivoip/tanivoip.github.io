@@ -1,0 +1,8 @@
+---
+layout: post
+title: iFON 2.0 wystartował
+joomla_id: 278
+joomla_url: 62f40cfd841b664a229404da958365b8
+date: 2008-10-15 20:29:50.000000000 +02:00
+---
+Użytkownicy telefonii internetowej iFON mogą już korzystać z nowej, ulepszonej witryny. Zmiany na www.iFON.pl zostały wprowadzone z myślą o korzystających z usług iFON -&nbsp; serwis jest wygodniejszy i łatwiejszy w nawigacji, oferuje nowe funkcjonalności oraz aplikacje.<p>{mosgoogle}</p><p>Nowa strona www.ifon.pl została przygotowana w taki spos&oacute;b, aby jeszcze bardziej ułatwić korzystanie z usług telefonii VoIP oraz wirtualnego faksu i umożliwić zarządzanie tymi usługami w najprostszy spos&oacute;b.<br /><br />Potencjalnym klientom, kt&oacute;rzy są zainteresowani usługami iFON, nowa witryna ma ułatwić znalezienie i zebranie informacji o oferowanych usługach. Dużym udogodnieniem jest możliwość czatu z konsultantami iFON możliwy po zalogowaniu się na stronę.<br /><br />IFON 2.0 skonstruowano w taki spos&oacute;b, aby na każdym kroku użytkownik m&oacute;gł&nbsp; w prosty i intuicyjny spos&oacute;b korzystać z oferowanych przez nią możliwości. Nie zapomniano r&oacute;wnież o miłym dla oka interfejsie.<br /><br />&quot;<em>Strona ma mieć charakter dynamiczny oraz interaktywny, dlatego będą się na niej systematycznie pojawiały ciekawe artykuły, a także informacje o nowych usługach iFON na kt&oacute;re będzie zgłaszane zapotrzebowanie przez użytkownik&oacute;w.</em>&quot; - powiedział Maciej Błoszyk, kierownik projektu iFON. </p>

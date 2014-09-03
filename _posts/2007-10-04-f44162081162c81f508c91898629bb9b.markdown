@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowe strefy w iFON.pl
+joomla_id: 193
+joomla_url: f44162081162c81f508c91898629bb9b
+date: 2007-10-04 18:04:02.000000000 +02:00
+---
+iFON.pl udostępnił dla swoich klient&oacute;w kolejną strefę numeracyjną. Od 1 października została wprowadzona strefa Rzeszowska (strefa 017).<p>{mosgoogle}</p><p>W ten spos&oacute;b iFON.pl oferuje już 18 stref numeracyjnych. Nowa strefa jest dostępna zar&oacute;wno dla usługi połączeń telefonicznych jak i Wirtualnego Faksu.</p><p>Dodatkowo w październiku obniżona została do 3 gr./min brutto stawka za połączenia do Moskwy, St Petersburga i Kanady. Cena 3 gr./min dotyczy zar&oacute;wno połączeń głosowych jak i transmisji faksowej.</p><p>Ponadto użytkownicy iFON.pl zdecydowali we wrześniowym głosowaniu, na kt&oacute;ry kierunek cena za połączenie zostanie obniżona w październiku o 50%. W głosowaniu bezapelacyjnie wygrał szczeciński kierunek 091.</p>

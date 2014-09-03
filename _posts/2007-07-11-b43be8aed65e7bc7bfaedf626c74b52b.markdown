@@ -1,0 +1,8 @@
+---
+layout: post
+title: Europa liderem VoIP
+joomla_id: 109
+joomla_url: b43be8aed65e7bc7bfaedf626c74b52b
+date: 2007-07-11 08:14:40.000000000 +02:00
+---
+Konsumenckie rozwiązania VoIP (Voice over IP) największą popularność notują w&nbsp;Europie.<p>{mosgoogle}</p><p>Według najnowszych badań firmy In-Stat w&nbsp;minionym roku rzesza użytkownik&oacute;w tego typu technologii na całym świecie powiększyła się o około 34 mln. Niemal połowa z&nbsp;nowych użytkownik&oacute;w telefonii internetowej rekrutowała się spośr&oacute;d mieszkańc&oacute;w Europy (14 mln). Wśr&oacute;d kraj&oacute;w Starego Kontynetu największymi wzrostami w&nbsp;liczbie abonent&oacute;w tego typu usług mogły pochwalić się Francja, Niemcy oraz Holandia. Dla kontrastu, w&nbsp;Stanach Zjednoczonych w&nbsp;minionym roku operatorzy zdołali zachęcić do usług VoIP tylko 4 mln nowych klient&oacute;w. Analitycy sądzą, że do 2011 roku Stany Zjednoczone będą reprezentować około 18 proc. globalnego rynku konsumenckiego rozwiązań VoIP, ocenianego w&nbsp;tym czasie na około 44 mld dolar&oacute;w (w tym roku było to 15,4 mld dolar&oacute;w).</p> <p>Rozw&oacute;j europejskiego rynku VoIP związany jest zdaniem analityk&oacute;w z uwolnieniem lokalnej pętli abonenckiej (LLU, Local Loop Unbundling), ofertami telefonii kablowej i&nbsp;usług typu triple-play oraz konsolidacją operator&oacute;w.</p> <p>W tym roku w&nbsp;Europie mieszkać ma już 34 mln użytkownik&oacute;w telefonii VoIP. Na koniec minionego roku było ich 19 mln. W&nbsp;Stanach Zjednoczonych na koniec roku mieszkało nieco ponad 10 mln abonent&oacute;w usług VoIP. W&nbsp;tym roku ich liczba sięgnie 15,9 mln.</p><p>&nbsp;</p><p>&nbsp;</p>

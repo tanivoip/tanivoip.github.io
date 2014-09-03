@@ -1,0 +1,8 @@
+---
+layout: post
+title: Poszerzamy ofertę!
+joomla_id: 128
+joomla_url: 870c9b855712f210f2e02375a0699e7e
+date: 2007-07-20 08:18:53.000000000 +02:00
+---
+Nasz wortal zdecydował się na poszerzenie naszej oferty. W tej chwili można przez nasz serwis doładować telefon kom&oacute;rkowy czy zakupić kontent na telefon kom&oacute;rkowy.<p>{mosgoogle}</p><p>Od dzisiaj na naszych stronach dostępny jest pełen wyb&oacute;r treści na telefony kom&oacute;rkowe. Oferujemy tapety, dzwonki polifoniczne, dzwonki zwykłe, dzwonki TrueTone, grafiki, kolorowe loga, tradycyjne loga i kolorowe animacje. Na pewno każdy znajdzie tutaj coś interesującego dla siebie.</p><p>Pełną naszą ofertę można zobaczyć <a href="component/option,com_wrapper/Itemid,37/">tutaj</a>.</p><p>Dodatkowo umożliwiliśmy doładowanie telefon&oacute;w kom&oacute;rkowych pre-paid. W tym celu wystarczy kliknąć baner w prawym g&oacute;rnym rogu i zostaniemy przekierowani do systemu doładowań.</p><p>Mamy nadzieję, że oferta ta zwiększy zar&oacute;wno atrakcyjność naszego wortalu jak i go nieco ożywi. Zapraszamy wszystkich do korzystania z naszych usług!&nbsp;</p><p>&nbsp;</p><p>Pozdrawiamy</p><p>Redakcja TaniVoIP.pl&nbsp;</p>

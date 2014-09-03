@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowa funkcjonalność w routerach Vigor serii 2800
+joomla_id: 148
+joomla_url: 18f037e525d4b64fd8f48fe6d3d068e1
+date: 2007-08-06 12:45:31.000000000 +02:00
+---
+<p>Nowa funkcjonalność dotyczy modeli serii 2800 (V,G,VG).<br />Po wgraniu najnowszego firmware (2.8) do router&oacute;w serri Vigor 2800 urządzenie to zyskuje nową funkcjonalość: może bowiem wsp&oacute;łpracować z zewnętrznymi modemami 3,5G USB - UMTS/HSDPA.</p><p>{mosgoogle}</p><p>Modem wpinamy  w port USB, t&oacute;ry do tej pory przeznaczony był do drukarki, daje to możliwość mobilnego dostępu do Internetu z każdego miejsca na ziemi. Modele router&oacute;w, kt&oacute;re yposażone są dodatkowo w Access Pointy mogą pracować jako mobilne Hot Spoty.</p><p>Więcej  informacji na temat rozszerzonej funkcjonalności Vigor&oacute;w serii 2800 można znaleźć <a href="http://forum.draytek.pl/viewtopic.php?t=829" target="_blank"><strong>pod tym adresem.</strong></a></p>

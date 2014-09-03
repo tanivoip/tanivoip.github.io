@@ -1,0 +1,8 @@
+---
+layout: post
+title: HopIn.pl obniża cenę połączeń na telefony komórkowe
+joomla_id: 49
+joomla_url: af202ecb8a021321761f83de07f0118c
+date: 2007-06-05 22:48:35.000000000 +02:00
+---
+<p>Serwis <a href="http://www.hopin.pl" target="_blank"><strong style="color: #cc0033">HopIn.pl</strong></a>  informuje o obniżeniu ceny połączenia z polskimi operatorami kom&oacute;rkowymi do <strong style="color: #000000">55 groszy </strong>za minutę brutto (45 groszy netto).<br />Jednocześnie uruchamia możliwość dzwonienia na telefony kom&oacute;rkowe z identyfikacją numeru z jakiego dzwoni użytkownik.</p><p>{mosgoogle}</p><p><img src="http://www.hopin.pl/images/images/hopinpl_logo.jpg" alt="HopIn.pl" width="206" height="116" align="left" />Dotychczasowa stawka 0,70 zł za połączenia z krajowymi telefonami kom&oacute;rkowymi od dnia dzisiejszego zostaje obniżona do <strong>0,55 zł</strong> za minutę połączenia. Wszyscy obecni klienci od dnia dzisiejszego dzwonią według nowej, niższej stawki.</p>Jednocześnie wprowadzana jest nowa usługa - możliwość dzwonienia na telefony kom&oacute;rkowe z prezentacją numeru. Jeśli użytkownik ma wykupiony numer publiczny PSTN i chce aby ten numer wyświetlał się na telefonie kom&oacute;rkowym rozm&oacute;wcy należy wejść w ustawienia konta i zmienić rodzaj połączeń kom&oacute;rkowych z Tani na Standard. <p>Koszt minuty połączenia z prezentacją numeru, to 0,75 zł brutto (0,61 zł netto) za minutę połączenia.</p>Więcej o tej usłudze można przeczytać <a href="http://www.hopin.pl/content/view/245/95/" target="_blank">tutaj</a>. <br /> <p>Pełen aktualny cennik sieci <strong style="color: #cc0033">HopIn.pl</strong> jest do pobrania <a href="http://download.hopin.pl/cennik_hopin.pdf" target="_blank">tutaj</a>.</p>

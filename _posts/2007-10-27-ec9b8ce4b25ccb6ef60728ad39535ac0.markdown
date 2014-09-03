@@ -1,0 +1,8 @@
+---
+layout: post
+title: Wirtualny Fax serwisu HopIn.pl i Vista
+joomla_id: 201
+joomla_url: ec9b8ce4b25ccb6ef60728ad39535ac0
+date: 2007-10-27 20:03:12.000000000 +02:00
+---
+W serwisie HopIn.pl została opublikowana instrukcja instalacji sterownika usługi Wirtualny Fax umożliwiającego wysyłanie fax&oacute;w dla systemu MS Windows Vista x32.<p>{mosgoogle}</p><p>Do tej chwili użytkownicy systemu <strong style="color: #000000">MS Windows Vista</strong> mogli korzystać z usługi Wirtualny Fax serwisu <strong>HopIn.pl</strong> tylko do odbierania fax&oacute;w przychodzących.</p> <p>Opublikowana w dziale &#39;do pobrania&#39; (dostępny po zalogowaniu) instrukcja instalacji sterownika drukarki pokazuje w jaki spos&oacute;b należy przeprowadzić instalację oprogramowania aby m&oacute;c r&oacute;wnież korzystać z funkcjonalności wysyłania fax&oacute;w.</p>  <p>Wysyłanie fax&oacute;w w usłudze <strong style="color: #0000ff">Wirtualny Fax</strong> zostało maksymalnie uproszczone. Wystarczy otworzyć dokument, kt&oacute;ry zamierzamy wysłać w dowolnym programie i dowolnym formacie oraz wybrać opcję <strong>DRUKUJ</strong>. Wspomniany sterownik po zainstalowaniu powoduje pojawienie się w systemie specjalnej drukarki, na kt&oacute;rej należy &#39;wydrukować&#39; dokument, kt&oacute;ry chcemy nadać faxem. Użytkownik zostaje poproszony o podanie numeru telefonicznego odbiorcy a następnie już tylko czeka na mail informujący o dostarczeniu faxu do odbiorcy.</p><p>Dla os&oacute;b zainteresowanych tą usługą HopIn.pl przygotował kr&oacute;tką instrukcję jak należy tą usługę uruchomić dostępną <a href="http://www.hopin.pl/content/view/242/94/">tutaj</a>.</p>

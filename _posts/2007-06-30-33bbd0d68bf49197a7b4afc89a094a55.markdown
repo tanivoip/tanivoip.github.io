@@ -1,0 +1,8 @@
+---
+layout: post
+title: 2 miliony użytkowników telefonii internetowej
+joomla_id: 93
+joomla_url: 33bbd0d68bf49197a7b4afc89a094a55
+date: 2007-06-30 13:14:29.000000000 +02:00
+---
+W I&nbsp;kwartale bieżącego roku liczba użytkownik&oacute;w telefonii internetowej w&nbsp;Holandii przekroczyła granicę 2 milion&oacute;w.<p>{mosgoogle}</p><p>ak wynika z&nbsp;danych firmy badawczej Telecompaper, w&nbsp;pierwszych trzech miesiącach obecnego roku liczba subskrybent&oacute;w technologii Voice over Internet Protocol (VoIP), umożliwiającej rozmowy telefoniczne za pomocą łączy internetowych, zwiększyła się w Holandii o&nbsp;17 procent do poziomu 2,1 miliona. </p><p>Największym dostawcą Voip w&nbsp;Holandii jest operator KPN, kt&oacute;ry kontroluje ponad 30 procent rynku. Ostatnio KPN wprowadził jednak ograniczenia w&nbsp;liczbie nowych użytkownik&oacute;w telefonii internetowej do 5 tysięcy tygodniowo, w&nbsp;związku z&nbsp;czym w&nbsp;kolejnych miesiącach wzrost nie będzie tak szybki jak dotąd (w III kwartale 2006 wyni&oacute;sł on 29 procent, w&nbsp;IV kw. 17 procent).</p> <p>Telecopmpaper prognozuje, że w&nbsp;II kwartale wzrost liczby nowych użytkownik&oacute;w VoIP wyniesie 10 procent. Do końca bieżącego roku z telefonii internetowej w&nbsp;Holandii ma korzystać 2,8 miliona os&oacute;b, w por&oacute;wnaniu do pierwotnych szacunk&oacute;w na poziomie 3 milion&oacute;w subskrybent&oacute;w.</p><p>&nbsp;</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Miesiąc za połowę ceny
+joomla_id: 76
+joomla_url: 9d6e8ade828d46f74d8212d5da4235dd
+date: 2007-06-18 21:42:57.000000000 +02:00
+---
+iFON uruchamia cykliczną, comiesięczną promocję. Użytkownicy mogą wybrać na jaki kierunek, przez cały miesiąc wszystkie połączenia będą realizowane za połowę ceny. Od 15 czerwca odwiedzający serwis www.iFON.pl mogą brać udział w ankiecie.<p>{mosgoogle}&nbsp;</p><p> W pierwszym głosowaniu udział biorą: <br /> trzy strefy w Polsce (0,045 pln/min.)*: <br /> <strong>022 - warszawska <br /> 012 - krakowska<br /> 065 - leszczyńska</strong><br /> oraz trzy Państwa, połączenia na numery stacjonarne i kom&oacute;rkowe: <br /> <strong>0044 - Wielka Brytania</strong> (od 0,035 pln/min.)*<br /> <strong>0033 - Francja</strong> (od 0,04 pln/min)*<br /> <strong>00261 - Madagaskar</strong> (od 0,68 pln/min)*<br /> * W nawiasie podany koszt połączenia brutto za minutę w przypadku obniżenia połączeń w promocji. <br /> <br /> Na kierunek, kt&oacute;ry zdobędzie najwięcej głos&oacute;w iFON.pl <strong>obniży koszt połączenia o połowę</strong> jej dotychczasowej ceny. </p>

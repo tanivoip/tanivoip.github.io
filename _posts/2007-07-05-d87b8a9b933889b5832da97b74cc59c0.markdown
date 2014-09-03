@@ -1,0 +1,8 @@
+---
+layout: post
+title: Neostrada z pamięcią USB
+joomla_id: 101
+joomla_url: d87b8a9b933889b5832da97b74cc59c0
+date: 2007-07-05 16:12:36.000000000 +02:00
+---
+Telekomunikacja Polska przygotowała nową promocję na Neostradę, usługę szerokopasmowego dostępu do Internetu.<p>{mosgoogle}</p><p>Klienci, kt&oacute;rzy do końca sierpnia 2007 roku w salonie sprzedaży zdecydują się na usługę Neostrada TP w ofercie okresowej &quot;Neostrada tp megaInterent&quot; i zawrą umowę na 24 lub 36 miesięcy otrzymają pamięć USB 1 GB. </p>

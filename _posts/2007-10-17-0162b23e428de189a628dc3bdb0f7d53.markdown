@@ -1,0 +1,8 @@
+---
+layout: post
+title: IP50 - telefon VoIP
+joomla_id: 197
+joomla_url: 0162b23e428de189a628dc3bdb0f7d53
+date: 2007-10-17 20:38:12.000000000 +02:00
+---
+Funkwerk-EC wprowadził na rynek aparat telefoniczny VoIP podłączany do lokalnej sieci LAN. funkwerk IP50 należy do klasy urządzeń ekonomicznych. Telefon oferuje wiele dodatkowych funkcji, m.in. tryb głośnom&oacute;wiący.<p>{mosgoogle}</p><p><img src="images/ip50.jpg" alt=" " width="260" height="130" align="left" />IP50 spełnia wymagania stawiane wsp&oacute;łczesnym telefonom VoIP: obsługuje trzy linie telefonii internetowej, ma wewnętrzną książkę telefoniczną na 140 wpis&oacute;w, listy rozm&oacute;w odebranych i nieodebranych, umożliwia zawieszanie, przełączanie i transfer połączeń. Najczęściej używane opcje, np. przekierowanie połączeń czy wyciszenie telefonu są przypisane do 10 klawiszy funkcyjnych. Konfigurację aparatu można przeprowadzić na dwa sposoby: bezpośrednio za pomocą menu lub przez przeglądarkę internetową.<br /><br /> Aparat posiada dwa porty ethernetowe (WAN i LAN) - dzięki nim telefon można podłączyć bezpośrednio do sieci w biurze, a komputer do gniazda w telefonie.<br /><br /><!--   onet('adsGet1','main2-box') //--><!--   onet('adsGet2') //--> Telefon działa w sieci każdego operatora pracującego w technologii SIP, nie będzie jednak działać z popularnym Skypem.<br /><br /> Telefon funkwerk IP50 jest dostępny w sieci dealerskiej Funkwerk-EC w sugerowanej cenie detalicznej 69 EUR netto. </p>

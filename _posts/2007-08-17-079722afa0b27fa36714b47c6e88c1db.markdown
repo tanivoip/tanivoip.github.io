@@ -1,0 +1,8 @@
+---
+layout: post
+title: Skype - awaria zostanie usunięta
+joomla_id: 159
+joomla_url: 079722afa0b27fa36714b47c6e88c1db
+date: 2007-08-17 08:06:09.000000000 +02:00
+---
+Skype przestało działać. Od przynajmniej kilku godzin wielu użytkownik&oacute;w z całego świata nie może zalogować się na swoim koncie. Problemy mają zostać rozwiązane najp&oacute;źniej do 17.08.2007 do godziny 16:00 czasu polskiego.<p>{mosgoogle}</p><p><img src="images/obrazy/skype_logo.png" alt=" " width="105" height="47" align="left" />Użytkownicy, kt&oacute;rzy chcieli dziś zalogować się na swoim koncie w Skype, w najlepszym razie ujrzeli ekran z komunikatem o błędzie, a w najgorszym obserwowali, jak program bezskutecznie pr&oacute;buje się połączyć. W niekt&oacute;rych blogach pojawiły się nawet doniesienia, że serwery Skype zostały zaatakowane, co w efekcie doprowadziło do blokady komunikacji. <br /> <br />Na razie nie wiadomo, co spowodowało problem. Na <a href="http://heartbeat.skype.com/2007/08/problems_with_skype_login.html" target="_blank">oficjalnym blogu korporacji</a> umieszczono jedynie informację, że jest to błąd oprogramowania. Wszystkie wersje klienta Skype miały zostać chwilowo usunięte ze strony - inna sprawa, że ich pobranie w jest w dalszym ciągu możliwe. </p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowa strategia DrayTek w Polsce
+joomla_id: 43
+joomla_url: 23b92bf4f0963452b84416fccd44c763
+date: 2007-06-06 21:51:40.000000000 +02:00
+---
+DrayTek przedstawił na konferencji prasowej nową strategię działania w Polsce. Firma planuje zdobycie 15 proc. udział&oacute;w w rynku urządzeń sieciowych, w tym 30 proc. udział&oacute;w na rynku router&oacute;w VoIP, w ciągu najbliższych 2 lat. <p>{mosgoogle}</p>Cel ten ma zostać osiągnięty poprzez dotarcie z ofertą produktową do najbardziej wymagających kategorii odbiorc&oacute;w: ceniących sobie jakość i funkcjonalność użytkownik&oacute;w prywatnych, małych firm oraz średniego biznesu. Zakładane udziały w rynku na poziomie 15 proc. DrayTek zamierza osiągnąć dzięki sieci resellerskiej autoryzowanych partner&oacute;w, wspartych przez DrayTek merytorycznie, marketingowo oraz z priorytetowym supportem. <br /><br /> W osiągnięciu sukcesu mają r&oacute;wnież pom&oacute;c DrayTek nowe modele router&oacute;w: DrayTek Vigor 2700VG (wymagający użytkownicy indywidualni), Vigor2910VG (segment SOHO - małe firmy) oraz router i zapora UTM w jednym - VigorPro 5500 (segment SME - średni biznes). Są to nowe wersje najpopularniejszych i najlepiej sprzedających się w Polsce i na świecie serii urządzeń. Częścią nowej strategii jest także wprowadzanie ciągłych innowacji do oferty DrayTek, jak np. zupełnie nowa linia produkt&oacute;w w wersji Rack 19. Będą to zaawansowane routery typu Broadband Access Router o dużej wydajności, tradycyjnie już wyposażone w bogaty zestaw funkcji.

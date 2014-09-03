@@ -1,0 +1,8 @@
+---
+layout: post
+title: Crowley wkracza na TelArenę
+joomla_id: 72
+joomla_url: 30bc6e451c42bec5221462894aa5d0a0
+date: 2007-06-14 17:30:15.000000000 +02:00
+---
+Crowley Data Poland, niezależny operator telekomunikacyjny jest kolejnym, kt&oacute;ry powalczy o realizację każdego połączenia użytkownik&oacute;w FreecoNet. To już czwarty - obok EuroTelekom, GTS Energis i Netii - operator TelAreny.<p>{mosgoogle}</p>TelArena to usługa FreecoNet &ndash; platformy VoIP, kt&oacute;ra udostępnia usługi wielu operator&oacute;w w jednym miejscu. Operatorzy obecni na TelArenie walczą o każde połączenie na numery niezarejestrowane we FreecoNet. <br /> <br /> Połączenie zawsze realizuje ten, kt&oacute;ry zaoferuje najniższą stawkę w danym kierunku. Pomiędzy numerami zarejestrowanymi we FreecoNet rozmowy są darmowe (nie ma znaczenia, od jakiego operatora pochodzą zarejestrowane numery i w jakich krajach mieszkają ich użytkownicy).<br /> <br /> Crowley za pośrednictwem TelAreny będzie obsługiwał połączenia krajowe, jak i zagraniczne. Rozmowy z numerami stacjonarnymi w Polsce w dni powszednie, w godz. 8-18, Crowley oferuje w cenie od 6 groszy brutto za minutę połączenia, w pozostałych godzinach od 5 groszy brutto (na numery w TP, do pozostałych operator&oacute;w opłaty są wyższe o 1-2 grosze).<br /> <br /> Połączenia na kom&oacute;rki oferowane przez Crowley Data Poland kosztują już od 36 groszy brutto, bez względu na porę dnia. Na numery zagraniczne dzwonić można już od 12 groszy brutto za minutę połączenia. Wszystkie rozmowy naliczane są sekundowo. Za pośrednictwem TelAreny Crowley udostępni też użytkownikom FreecoNet numery telefoniczne z wybranych stref numeracyjnych w Polsce.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Deutsche Telekom wkracza na TelArenę
+joomla_id: 95
+joomla_url: c17e910eb7a49794df1d0188dc5df3d3
+date: 2007-07-03 10:00:02.000000000 +02:00
+---
+<p>Deutsche Telekom (DT) jest kolejnym operatorem, kt&oacute;ry od kliku dni walczy o ołączenia użytkownik&oacute;w FreecoNet.<br />Pojawienie się DT na TelArenie spowodowało spadki cen na numery niezarejestrowane we FreecoNet, gł&oacute;wnie na połączenia międzynarodowe. </p><p>{mosgoogle}</p><p>Wkr&oacute;tce do grona operator&oacute;w na TelArenie - Crowley, Deutsche Telekom, EuroTelekom, GTS Energis, Netia - powinien dołączyć kolejny spośr&oacute;d największych polskich operator&oacute;w niezależnych. Tym samym walka o połączenia na TelArenie powinna stać się jeszcze bardziej interesująca.<br /><br />FreecoNet to rozwiązanie integrujące usługi wielu operator&oacute;w w jednej platformie.<br />Operatorzy obecni na TelArenie (usługa FreecoNet) walczą o każde połączenie na numery niezarejestrowane we FreecoNet. Zawsze wygrywa ten, kt&oacute;ry zaoferuje najniższą stawkę w danym kierunku. Pomiędzy numerami zarejestrowanymi we FreecoNet rozmowy są darmowe. Przynależność do FreecoNet jest przez pierwsze 3 miesiące darmowa, a potem kosztuje 1,95 zł brutto na miesiąc.<br /><br />Użytkownikiem FreecoNet może zostać każdy, kto dysponuje stałym dostępem do Internetu. Dzwonić można albo za pośrednictwem komputera (za pomocą oprogramowania i słuchawek z mikrofonem), albo przez zwykły telefon podłączony do specjalnego urządzenia, tzw. bramki VoIP (koszt ok. 150-250 zł brutto). Rejestracja numeru we FreecoNet lub pobranie nowego numeru odbywa się za pośrednictwem strony internetowej: <a href="http://www.freeconet.pl" target="_blank">www.freeconet.pl</a>.</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: IPFON ma drugie urodziny
+joomla_id: 119
+joomla_url: ebf58ff735b305e6ef19f3ea91f2afc0
+date: 2007-07-16 16:10:26.000000000 +02:00
+---
+<p>IPFON obchodzi swoje drugie urodziny. Z tej okazji operator przygotował ofertę dla swoich obecnych i przyszłych użytkownik&oacute;w.</p><p>{mosgoogle}</p><p>Każdy, kto do końca lipca doładuje swoje konto w IPFON kwotą co najmniej 50 zł brutto, otrzyma dodatkowe 50 minut na połączenia stacjonarne w Polsce. Natomiast doładowanie konta kwotą wyższą niż 100 zł brutto to 100 dodatkowych minut na krajowe rozmowy stacjonarne. Dla nowych użytkownik&oacute;w IPFON ma także urodzinowy prezent - bramkę VoIP Linksys PAP2T-EU, kt&oacute;ra umożliwia dzwonienie z tradycyjnego aparatu telefonicznego. Osoby, kt&oacute;re do końca sierpnia zdecydują się na skorzystanie z usług IPFON, mogą ją kupić za 165 zł brutto.<br />Kolejna zmiana w IPFON to niższe opłaty za połączenia do sieci kom&oacute;rkowych. Od 1 sierpnia, dzwoniąc na kom&oacute;rkę, zapłacimy 49 groszy brutto za minutę połączenia (dotychcza 68 groszy brutto), przy sekundowym naliczaniu. Specjalną ofertę IPFON przygotował też dla firm, kt&oacute;re mogą aktywować i przez miesiąc za darmo korzystać z usługi wirtualnego faksu, dzięki czemu mogą wysyłać i odbierać faksy przy pomocy skrzynki mailowej, bez potrzeby posiadania urządzenia faksowego.</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nowa globalna sieć zamiast Internetu?
+joomla_id: 168
+joomla_url: 152a4096b789b97b4125a7cace9fe131
+date: 2007-08-28 19:36:17.000000000 +02:00
+---
+<p>Japonia rozpocznie badania nad nową technologią sieciową, kt&oacute;ra będzie mogła zastąpić Internet - ogłosiły władze w Tokio.</p><p>{mosgoogle}</p><p>- Internet zbliża się do swoich granic - powiedział Yoshihiro Onishi, zastępca dyrektora w ministerstwie komunikacji. Nowa sieć będzie według niego niezbędna w roku 2020.<br /><br /> Problemy z jakością i bezpieczeństwem Internetu spowodowały, że podobne inicjatywy ruszyły już w USA i Europie. Tokio nie wyklucza międzynarodowej wsp&oacute;łpracy badawczej. Japończycy chcą też, by nowa sieć była bardziej ekologiczna - zużywała mniej energii.<br /><br /><!--   onet('adsGet1','main2-box') //--><!--   onet('adsGet2') //--> Ministerstwo będzie teraz tworzyć organizacyjne ramy przedsięwzięcia i określać jego budżet. </p>

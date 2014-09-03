@@ -1,0 +1,8 @@
+---
+layout: post
+title: Bramka Voip numer 1 w Polsce już za 135 zł
+joomla_id: 202
+joomla_url: 1692e5afd9aae449efc718ae643374aa
+date: 2007-10-29 11:46:00.000000000 +01:00
+---
+<p>Bramka Linksys PAP2T to obecnie najpopularniejsza bramka VoIP w Polsce. Potwierdzają to statystyki sprzedaży oraz liczba zalogowanych urządzeń u operator&oacute;w VoIP.<br />Teraz sklep iFON sprzedaję ją bez blokady za 135 zł</p> <p>{mosgoogle}</p> <p>Urządzenie pozwala na podłączenie dw&oacute;ch telefon&oacute;w analogowych oraz prowadzenie jednocześnie dw&oacute;ch niezależnych rozm&oacute;w telefonicznych. <br />Stabilność działania, małe wymiary oraz bardzo estetyczne wykonanie czynią z PAP2T doskonałe urządzenie zar&oacute;wna dla domu jak i małej firmy.<br />Najtańszą niezablokowaną bramkę PAP2T można kupić już za 135 PLN w sklepie internetowym iFON.pl <a href="http://sklep.ifon.pl/" target="_blank">http://sklep.ifon.pl</a>.<br />Dodatkowo od operatora kupujący otrzymuje pakiet 100 bezpłatnych minut oraz numer PSTN w niegeograficznej strefie numeracyjnej 039.<br /><br />Bramka Linksys PAP2T objęta jest 24 miesięczną gwarancją producenta.</p>

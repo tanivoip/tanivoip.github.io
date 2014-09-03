@@ -1,0 +1,8 @@
+---
+layout: post
+title: Certyfikacja Yealink i Elektronix
+joomla_id: 431
+joomla_url: e9de02674f2cffe40afba5046c0b15bd
+date: 2011-05-27 21:29:27.000000000 +02:00
+---
+Telefony SIP marki Yealink uzyskały certyfikat zgodności z centralami firmy Elektronix. Certyfikacja dotyczy central ELNIX IP- PBX.<p>{mosgoogle}</p><p>Certyfikacja została uzyskana dla wszystkich modeli telefon&oacute;w SIP Yealink i central telefonicznych serii ELNIX: <br />- centrala 1/6 MINI IP to najmniejsza konfiguracyjnie centrala z serii central ELNIX, działających w oparciu zar&oacute;wno o protok&oacute;ł VoIP jak i telefonię tradycyjną (PSTN).<br />- centrale Mx o mniejszych parametrach konfiguracyjnych<br />- centrale Sx o wyższych parametrach konfiguracyjnych<br />- centrale SIP<br />- duże centrale stworzone w oparciu o serwer Asteriska z modułami ASTERBOXA.<br /><br />Zgodność została uzyskana dla wszystkich modeli telefon&oacute;w SIP Yealink, kt&oacute;re są dostosowane do potrzeb wymagających biznesowych klient&oacute;w. Zapewniają dostęp do wszystkich możliwości platform VoIP opartych na SIP. Oferują znakomitą jakość dźwięku High Definition (HD) oraz zaawansowane właściwości wraz z PoE jako standardem umożliwiającym znacznie bardziej wydajną, produktywną i oszczędną komunikację. Telefony objęte są w Polsce dwuletnią gwarancję door-to-door. Wyłącznym autoryzowanym dystrybutorem produkt&oacute;w Yealink w Polsce jest firma VoIPoint. Szczeg&oacute;łowe informacje można znaleźć na stronach: <a href="http://www.yealink-polska.pl" target="_blank">http://www.yealink-polska.pl</a>  oraz <a href="http://voipoint.pl/" target="_blank">http://voipoint.pl/</a>.</p>
